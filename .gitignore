@@ -2,7 +2,9 @@
 /firebase-debug.log
 /firebase-debug.*.log
 .firebaserc
+/firebase/firebase.config.js
 /firebase/*-service-account*.json
+/config/app-access.config.js
 
 # Firebase Hosting
 /firebase.json

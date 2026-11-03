@@ -11,14 +11,3 @@ export const FIREBASE_CONFIG = {
 export const REALTIME_DB_CONFIG = {
   databasePath: 'sf3-character-database-v1',
 };
-
-export const FIREBASE_AUTH_CONFIG = {
-  method: 'google',
-  accessScope: 'one',
-
-
-  // Only this Google account is allowed.
-  allowedEmails: [
-    'dauduata@gmail.com',
-  ],
-};

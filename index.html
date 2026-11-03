@@ -93,11 +93,11 @@
     <div id="settingsControl" class="settings-control">
       <div id="settingsMenu" class="settings-menu hidden" role="menu" aria-label="Database settings">
         <div id="firebaseAuthStatus" class="settings-auth-status" role="status" aria-live="polite">Checking Google sign-in...</div>
-        <button type="button" role="menuitem" data-auth-action="sign-in">Sign in with Google</button>
-        <button type="button" role="menuitem" data-auth-action="sign-out" class="hidden">Sign out</button>
+        <button type="button" role="menuitem" data-auth-action="sign-in" disabled>Sign in with Google</button>
+        <button type="button" role="menuitem" data-auth-action="sign-out" class="hidden" disabled>Sign out</button>
         <div class="settings-menu-divider"></div>
-        <button type="button" role="menuitem" data-sync-action="save">Save to RealtimeDB</button>
-        <button type="button" role="menuitem" data-sync-action="load">Load from RealtimeDB</button>
+        <button type="button" role="menuitem" data-sync-action="save" disabled>Save to RealtimeDB</button>
+        <button type="button" role="menuitem" data-sync-action="load" disabled>Load from RealtimeDB</button>
       </div>
       <button id="settingsButton" class="settings-button" type="button" aria-label="Settings" title="Settings" aria-haspopup="menu" aria-expanded="false" aria-controls="settingsMenu">
         <span aria-hidden="true">⚙</span>
