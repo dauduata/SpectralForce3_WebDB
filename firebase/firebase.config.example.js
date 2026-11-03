@@ -12,11 +12,4 @@ export const REALTIME_DB_CONFIG = {
   databasePath: 'YOUR_DATABASE_PATH',
 };
 
-export const FIREBASE_AUTH_CONFIG = {
-  method: 'none',
-  accessScope: 'one',
-
-  // Authentication is disabled.
-  // Single-user access cannot be enforced by Firebase Security Rules
-  // without an authenticated user identity.
-};
+// Application access settings are maintained separately in config/app-access.config.js.
