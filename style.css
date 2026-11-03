@@ -444,10 +444,25 @@ tbody tr:nth-child(even) {
   font-size: 0.95rem;
 }
 
-.numeric-cell {
-  text-align: left;
-  font-variant-numeric: tabular-nums;
-  min-width: 62px;
+.profile-chart-cell {
+  min-width: 180px;
+  padding: 0.55rem 0.35rem;
+}
+
+.profile-chart-wrap {
+  width: min(170px, 100%);
+  height: 110px;
+  margin: 0 auto;
+  padding: 0.35rem;
+  border-radius: 10px;
+  background: rgba(15, 23, 42, 0.75);
+  border: 1px solid rgba(148, 163, 184, 0.18);
+}
+
+.profile-chart-wrap canvas {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
 }
 
 .empty-row td {
@@ -604,33 +619,50 @@ tbody tr:nth-child(even) {
 }
 
 .stat-segment {
-  display: block;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   width: 100%;
   height: 18px;
   border-radius: 4px;
   background: rgba(148, 163, 184, 0.18);
   border: 1px solid rgba(148, 163, 184, 0.2);
+  overflow: hidden;
+}
+
+.stat-segment-half {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  border: 0;
   padding: 0;
   margin: 0;
-  cursor: pointer;
   transition: transform var(--transition), border-color var(--transition), background-color var(--transition);
 }
 
-.stat-segment.filled {
+.stat-segment-half.filled {
   background: var(--accent-strong);
-  border-color: rgba(56, 189, 248, 0.8);
 }
 
 .stat-row-edit .stat-segment {
   height: 30px;
+}
+
+.stat-row-edit .stat-segment-half {
   cursor: pointer;
 }
 
-.stat-row-edit .stat-segment:hover,
-.stat-row-edit .stat-segment:focus-visible {
+.stat-row-edit .stat-segment-half:hover,
+.stat-row-edit .stat-segment-half:focus-visible {
   transform: translateY(-1px);
-  border-color: rgba(125, 211, 252, 0.8);
+  background-color: rgba(125, 211, 252, 0.35);
   outline: none;
+}
+
+.stat-row-edit .stat-segment-half.filled:hover,
+.stat-row-edit .stat-segment-half.filled:focus-visible {
+  background-color: var(--accent-strong);
+  filter: brightness(1.2);
 }
 
 .stat-value-group {
