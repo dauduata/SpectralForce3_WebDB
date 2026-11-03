@@ -232,6 +232,20 @@ img {
   cursor: pointer;
 }
 
+.settings-auth-status {
+  padding: 0.65rem 0.8rem;
+  border-bottom: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.82rem;
+  overflow-wrap: anywhere;
+}
+
+.settings-menu-divider {
+  height: 1px;
+  margin: 4px 0;
+  background: var(--border);
+}
+
 .settings-menu button:hover,
 .settings-menu button:focus-visible {
   background: rgba(125, 211, 252, 0.12);

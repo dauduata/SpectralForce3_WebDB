@@ -1,4 +1,10 @@
-import { loadFromRealtimeDB, saveToRealtimeDB } from './realtimeDB.service.js';
+import {
+  getFirebaseAuthStatus,
+  loadFromRealtimeDB,
+  saveToRealtimeDB,
+  signInWithGoogle,
+  signOutFromFirebase,
+} from './realtimeDB.service.js';
 
 const STORAGE_KEY = 'sf3-character-database-v1';
 const ATTRIBUTE_KEYS = ['strength', 'intelligence', 'charm', 'diplomacy', 'loyalty'];
@@ -19,6 +25,9 @@ const state = {
 let previewTimer = null;
 let statusTimer = null;
 let realtimeSyncInProgress = false;
+let authActionInProgress = false;
+let syncAuthorized = false;
+let currentFirebaseUser = null;
 
 const placeholderPortrait = `data:image/svg+xml;charset=UTF-8,${encodeURIComponent(
   '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" fill="#182235"/><text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" fill="#A5B4C9" font-size="18">N/A</text></svg>'
@@ -28,6 +37,7 @@ document.addEventListener('DOMContentLoaded', initializeApp);
 
 async function initializeApp() {
   bindEventHandlers();
+  void refreshFirebaseAuthStatus();
 
   const storageResult = loadFromLocalStorage();
 
@@ -107,8 +117,16 @@ function bindEventHandlers() {
   });
 
   settingsMenu.addEventListener('click', (event) => {
+    const authButton = event.target.closest('[data-auth-action]');
+    if (authButton) {
+      if (authActionInProgress) return;
+      closeSettingsMenu();
+      handleFirebaseAuthAction(authButton.dataset.authAction);
+      return;
+    }
+
     const actionButton = event.target.closest('[data-sync-action]');
-    if (!actionButton || realtimeSyncInProgress) return;
+    if (!actionButton || realtimeSyncInProgress || authActionInProgress || !syncAuthorized) return;
 
     closeSettingsMenu();
     handleRealtimeSync(actionButton.dataset.syncAction);
@@ -878,6 +896,82 @@ function closeSettingsMenu() {
   settingsButton.setAttribute('aria-expanded', 'false');
 }
 
+async function refreshFirebaseAuthStatus() {
+  const statusElement = document.getElementById('firebaseAuthStatus');
+  if (statusElement) statusElement.textContent = 'Checking Google sign-in...';
+
+  try {
+    const status = await getFirebaseAuthStatus();
+    syncAuthorized = status.authorized;
+    renderFirebaseAuthStatus(status);
+  } catch (error) {
+    syncAuthorized = false;
+    renderFirebaseAuthStatus({ user: null, authorized: false });
+    if (statusElement) statusElement.textContent = `Google sign-in unavailable: ${error.message}`;
+    console.error('Unable to initialize Firebase Authentication:', error);
+  }
+}
+
+function renderFirebaseAuthStatus({ user, authorized }) {
+  const statusElement = document.getElementById('firebaseAuthStatus');
+  const signInButton = document.querySelector('[data-auth-action="sign-in"]');
+  const signOutButton = document.querySelector('[data-auth-action="sign-out"]');
+  const syncButtons = document.querySelectorAll('[data-sync-action]');
+  currentFirebaseUser = user;
+
+  if (statusElement) {
+    statusElement.textContent = authorized
+      ? `Signed in: ${user.email}`
+      : user
+        ? `Not permitted: ${user.email || 'Google account'}`
+        : 'Sign in with the permitted Google account to sync.';
+  }
+
+  signInButton?.classList.toggle('hidden', authorized);
+  signOutButton?.classList.toggle('hidden', !user);
+  syncButtons.forEach((button) => {
+    button.disabled = !authorized || realtimeSyncInProgress || authActionInProgress;
+  });
+}
+
+async function handleFirebaseAuthAction(action) {
+  if (authActionInProgress) return;
+
+  authActionInProgress = true;
+  setFirebaseAuthLoading(true);
+  showStatus(action === 'sign-in' ? 'Opening Google sign-in...' : 'Signing out...', 'info', 0);
+
+  try {
+    if (action === 'sign-in') {
+      await signInWithGoogle();
+      await refreshFirebaseAuthStatus();
+      showStatus('Google account verified. Realtime Database sync is available.', 'success');
+    } else {
+      await signOutFromFirebase();
+      await refreshFirebaseAuthStatus();
+      showStatus('Signed out of Firebase.', 'success');
+    }
+  } catch (error) {
+    console.error('Firebase Authentication failed:', error);
+    showStatus(error.message || 'Firebase Authentication failed.', 'error');
+    await refreshFirebaseAuthStatus();
+  } finally {
+    authActionInProgress = false;
+    setFirebaseAuthLoading(false);
+  }
+}
+
+function setFirebaseAuthLoading(isLoading) {
+  const authButtons = document.querySelectorAll('[data-auth-action]');
+  authButtons.forEach((button) => {
+    button.disabled = isLoading;
+  });
+  renderFirebaseAuthStatus({
+    user: currentFirebaseUser,
+    authorized: syncAuthorized,
+  });
+}
+
 async function handleRealtimeSync(action) {
   if (realtimeSyncInProgress) return;
 
@@ -919,7 +1013,7 @@ function setRealtimeSyncLoading(isLoading, action = '') {
   settingsButton.setAttribute('aria-busy', String(isLoading));
 
   actionButtons.forEach((button) => {
-    button.disabled = isLoading;
+    button.disabled = isLoading || !syncAuthorized || authActionInProgress;
     button.textContent = isLoading && button.dataset.syncAction === action
       ? (action === 'save' ? 'Saving...' : 'Loading...')
       : action === 'save' && button.dataset.syncAction === 'save'
