@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="SF3 Character Database" />
+    <title>SF3 Character Database</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="branding">
+          <h1>SF3 Character Database</h1>
+        </div>
+        <div class="controls">
+          <label class="search-field" for="searchInput">
+            <span class="sr-only">Search characters</span>
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="Search by name or ID"
+              autocomplete="off" />
+          </label>
+          <label class="country-filter" for="countryFilter">
+            <span>Country</span>
+            <select id="countryFilter">
+              <option value="all">All countries</option>
+            </select>
+          </label>
+          <button id="specialSkillFilter" class="filter-toggle" type="button" aria-pressed="false">
+            Special Skill
+          </button>
+          <div id="characterCount" class="count-badge" aria-live="polite">0 characters</div>
+        </div>
+      </header>
+
+      <main class="table-panel">
+        <div class="table-scroll">
+          <table aria-label="SF3 character database">
+            <thead>
+              <tr>
+                <th class="portrait-column">Portrait</th>
+                <th>
+                  <button type="button" class="sort-button" data-sort="id_hex">
+                    ID <span class="sort-indicator"></span>
+                  </button>
+                </th>
+                <th>
+                  <button type="button" class="sort-button" data-sort="name_english">
+                    Name <span class="sort-indicator"></span>
+                  </button>
+                </th>
+                <th>Country</th>
+                <th>
+                  <button type="button" class="sort-button" data-sort="strength">
+                    STR <span class="sort-indicator"></span>
+                  </button>
+                </th>
+                <th>
+                  <button type="button" class="sort-button" data-sort="intelligence">
+                    INT <span class="sort-indicator"></span>
+                  </button>
+                </th>
+                <th>
+                  <button type="button" class="sort-button" data-sort="charm">
+                    CHA <span class="sort-indicator"></span>
+                  </button>
+                </th>
+                <th>
+                  <button type="button" class="sort-button" data-sort="diplomacy">
+                    DIP <span class="sort-indicator"></span>
+                  </button>
+                </th>
+                <th>
+                  <button type="button" class="sort-button" data-sort="loyalty">
+                    LOY <span class="sort-indicator"></span>
+                  </button>
+                </th>
+              </tr>
+            </thead>
+            <tbody id="characterTableBody"></tbody>
+          </table>
+        </div>
+      </main>
+    </div>
+
+    <div id="statusSnackbar" class="snackbar hidden" role="status" aria-live="polite">
+      <span id="snackbarMessage"></span>
+      <button type="button" class="snackbar-close" aria-label="Dismiss notification" title="Dismiss notification">×</button>
+    </div>
+
+    <div id="settingsControl" class="settings-control">
+      <div id="settingsMenu" class="settings-menu hidden" role="menu" aria-label="Database settings">
+        <button type="button" role="menuitem" data-sync-action="save">Save to RealtimeDB</button>
+        <button type="button" role="menuitem" data-sync-action="load">Load from RealtimeDB</button>
+      </div>
+      <button id="settingsButton" class="settings-button" type="button" aria-label="Settings" title="Settings" aria-haspopup="menu" aria-expanded="false" aria-controls="settingsMenu">
+        <span aria-hidden="true">⚙</span>
+      </button>
+    </div>
+
+    <aside id="previewCard" class="preview-card hidden" aria-live="polite"></aside>
+
+    <div id="detailModal" class="modal hidden" aria-hidden="true">
+      <div class="modal-backdrop" data-action="close-modal"></div>
+      <div class="modal-window" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
+        <button type="button" class="modal-close" data-action="close-modal" aria-label="Close character editor">×</button>
+        <div id="detailContent"></div>
+      </div>
+    </div>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
