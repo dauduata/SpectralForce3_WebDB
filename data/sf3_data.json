@@ -1,0 +1,7082 @@
+{
+  "source": "SF3 code.doc",
+  "countries": [
+    {
+      "id_hex": "00",
+      "source_paragraph": 3,
+      "name_english": "Fredburn",
+      "name_japanese": "フレッドバーン"
+    },
+    {
+      "id_hex": "01",
+      "source_paragraph": 46,
+      "name_english": "Kersha",
+      "name_japanese": "カーシャ"
+    },
+    {
+      "id_hex": "02",
+      "source_paragraph": 89,
+      "name_english": "Newgard",
+      "name_japanese": "ネウガード"
+    },
+    {
+      "id_hex": "03",
+      "source_paragraph": 158,
+      "name_english": "Nahali",
+      "name_japanese": "ナハリ"
+    },
+    {
+      "id_hex": "04",
+      "source_paragraph": 201,
+      "name_english": "Zekerood",
+      "name_japanese": "ジグロード"
+    },
+    {
+      "id_hex": "05",
+      "source_paragraph": 257,
+      "name_english": "Chenbur",
+      "name_japanese": "ツェンバー"
+    },
+    {
+      "id_hex": "06",
+      "source_paragraph": 300,
+      "name_english": "Gatzo",
+      "name_japanese": "ガッツオ"
+    },
+    {
+      "id_hex": "07",
+      "source_paragraph": 343,
+      "name_english": "Silvesta",
+      "name_japanese": "シルヴェスタ"
+    },
+    {
+      "id_hex": "08",
+      "source_paragraph": 386,
+      "name_english": "Marianrouge",
+      "name_japanese": "マリアンルージュ"
+    },
+    {
+      "id_hex": "09",
+      "source_paragraph": 429,
+      "name_english": "Cirinigue",
+      "name_japanese": "シリニーグ"
+    },
+    {
+      "id_hex": "0A",
+      "source_paragraph": 472,
+      "name_english": "Gaugbur",
+      "name_japanese": "ガウガブル"
+    },
+    {
+      "id_hex": "0B",
+      "source_paragraph": 489,
+      "name_english": "Orgl",
+      "name_japanese": "オーグル"
+    },
+    {
+      "id_hex": "0C",
+      "source_paragraph": 532,
+      "name_english": "Freezie",
+      "name_japanese": "フリージィ"
+    },
+    {
+      "id_hex": "0D",
+      "source_paragraph": 575,
+      "name_english": "Caizellon",
+      "name_japanese": "カイゼルオーン"
+    },
+    {
+      "id_hex": "0E",
+      "source_paragraph": 592,
+      "name_english": "Volhoco",
+      "name_japanese": "ボルホコ"
+    },
+    {
+      "id_hex": "0F",
+      "source_paragraph": 661,
+      "name_english": "Edew",
+      "name_japanese": "エジュー"
+    },
+    {
+      "id_hex": "10",
+      "source_paragraph": 691,
+      "name_english": "Prattisalva",
+      "name_japanese": "プラティセルパ"
+    },
+    {
+      "id_hex": "11",
+      "source_paragraph": 734,
+      "name_english": "Japtos",
+      "name_japanese": "ジャピトス"
+    },
+    {
+      "id_hex": "12",
+      "source_paragraph": 777,
+      "name_english": "Hellphanpool",
+      "name_japanese": "ヘルハンブール"
+    },
+    {
+      "id_hex": "13",
+      "source_paragraph": 833,
+      "name_english": "Feliaus",
+      "name_japanese": "フェリアス"
+    },
+    {
+      "id_hex": "14",
+      "source_paragraph": 863,
+      "name_english": "Aikus",
+      "name_japanese": "エイクス"
+    },
+    {
+      "id_hex": "15",
+      "source_paragraph": 893,
+      "name_english": "Diarg Island",
+      "name_japanese": "ディアルゴ諸島"
+    },
+    {
+      "id_hex": "16",
+      "source_paragraph": 949,
+      "name_english": "Garena",
+      "name_japanese": "ガレーナ"
+    },
+    {
+      "id_hex": "17",
+      "source_paragraph": 979,
+      "name_english": "Boronya",
+      "name_japanese": "ボローニャ"
+    },
+    {
+      "id_hex": "18",
+      "source_paragraph": 1046,
+      "name_english": "Paulus. Nui",
+      "name_japanese": "パウラス・ヌイ"
+    },
+    {
+      "id_hex": "19",
+      "source_paragraph": 1089,
+      "name_english": "Ellegitect",
+      "name_japanese": "エレジタット"
+    },
+    {
+      "id_hex": "1B",
+      "source_paragraph": 1136,
+      "name_english": "Furhen",
+      "name_japanese": "フーリュン"
+    },
+    {
+      "id_hex": "1C",
+      "source_paragraph": 1179,
+      "name_english": "Logeon",
+      "name_japanese": "ロギオン"
+    },
+    {
+      "id_hex": "1D",
+      "source_paragraph": 1261,
+      "name_english": "Belnube",
+      "name_japanese": "ベルヌーブ"
+    },
+    {
+      "id_hex": "1E",
+      "source_paragraph": 1317,
+      "name_english": "Camria",
+      "name_japanese": "カムリア"
+    },
+    {
+      "id_hex": "1F",
+      "source_paragraph": 1386,
+      "name_english": "Petwn",
+      "name_japanese": "ペトゥン"
+    },
+    {
+      "id_hex": "20",
+      "source_paragraph": 1416,
+      "name_english": "Golden",
+      "name_japanese": "ゴルデン"
+    },
+    {
+      "id_hex": "21",
+      "source_paragraph": 1459,
+      "name_english": "Tratepes",
+      "name_japanese": "トレテペス"
+    },
+    {
+      "id_hex": "22",
+      "source_paragraph": 1502,
+      "name_english": "Priesta",
+      "name_japanese": "プリエスタ"
+    },
+    {
+      "id_hex": "23",
+      "source_paragraph": 1571,
+      "name_english": "Umarea Island",
+      "name_japanese": "ウマリー島"
+    },
+    {
+      "id_hex": "24",
+      "source_paragraph": 1601,
+      "name_english": "Muromachi",
+      "name_japanese": "ムロマチ"
+    },
+    {
+      "id_hex": "25",
+      "source_paragraph": 1644,
+      "name_english": "Izuruhi",
+      "name_japanese": "イズルヒ"
+    },
+    {
+      "id_hex": "26",
+      "source_paragraph": 1686,
+      "name_english": "Meymai",
+      "name_japanese": "メイマイ"
+    },
+    {
+      "id_hex": "27",
+      "source_paragraph": 1729,
+      "name_english": "Nortrion",
+      "name_japanese": "ノートリオン"
+    }
+  ],
+  "characters": [
+    {
+      "id_hex": "00",
+      "country_id_hex": "00",
+      "source_paragraph": 6,
+      "portrait": "images/portrait_001.png",
+      "name_english": "Ryuhain",
+      "name_japanese": "リューハイン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "00",
+        "name_japanese": "無し",
+        "name_english": "None"
+      }
+    },
+    {
+      "id_hex": "01",
+      "country_id_hex": "00",
+      "source_paragraph": 19,
+      "portrait": "images/portrait_002.png",
+      "name_english": "Chicol",
+      "name_japanese": "チコル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "01",
+        "name_japanese": "龍爪斬",
+        "name_english": "Dragon Claw Slash"
+      }
+    },
+    {
+      "id_hex": "02",
+      "country_id_hex": "00",
+      "source_paragraph": 32,
+      "portrait": "images/portrait_003.png",
+      "name_english": "Banban",
+      "name_japanese": "パンパン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "02",
+        "name_japanese": "剣魔連斬",
+        "name_english": "Demon Sword Combo"
+      }
+    },
+    {
+      "id_hex": "03",
+      "country_id_hex": "01",
+      "source_paragraph": 49,
+      "portrait": "images/portrait_004.png",
+      "name_english": "Mayura",
+      "name_japanese": "マユラ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "03",
+        "name_japanese": "裏奥義・封神閃",
+        "name_english": "Secret Art: Sealing Flash"
+      }
+    },
+    {
+      "id_hex": "04",
+      "country_id_hex": "01",
+      "source_paragraph": 62,
+      "portrait": "images/portrait_005.png",
+      "name_english": "Sugata",
+      "name_japanese": "スガタ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "04",
+        "name_japanese": "気功弾",
+        "name_english": "Ki Blast"
+      }
+    },
+    {
+      "id_hex": "05",
+      "country_id_hex": "01",
+      "source_paragraph": 75,
+      "portrait": "images/portrait_006.png",
+      "name_english": "Lamia",
+      "name_japanese": "ラミア",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "05",
+        "name_japanese": "烈衛錬功弾",
+        "name_english": "Fierce Guard Ki Blast"
+      }
+    },
+    {
+      "id_hex": "06",
+      "country_id_hex": "02",
+      "source_paragraph": 92,
+      "portrait": "images/portrait_007.png",
+      "name_english": "Jadou",
+      "name_japanese": "ジャドウ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "06",
+        "name_japanese": "裏奥義爆裂功覇",
+        "name_english": "Secret Art: Explosive Power"
+      }
+    },
+    {
+      "id_hex": "07",
+      "country_id_hex": "02",
+      "source_paragraph": 105,
+      "portrait": "images/portrait_008.png",
+      "name_english": "Rudora",
+      "name_japanese": "ルドーラ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "07",
+        "name_japanese": "集気砲",
+        "name_english": "Energy Gathering Cannon"
+      }
+    },
+    {
+      "id_hex": "08",
+      "country_id_hex": "02",
+      "source_paragraph": 118,
+      "portrait": "images/portrait_009.png",
+      "name_english": "Vyard the 13th",
+      "name_japanese": "バイアード13世",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "08",
+        "name_japanese": "烈衛集気砲",
+        "name_english": "Fierce Guard Energy Cannon"
+      }
+    },
+    {
+      "id_hex": "09",
+      "country_id_hex": "02",
+      "source_paragraph": 131,
+      "portrait": "images/portrait_010.png",
+      "name_english": "Zalack",
+      "name_japanese": "ザラック",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "09",
+        "name_japanese": "裏奥義・封魔掌",
+        "name_english": "Secret Art: Demon-Sealing Palm"
+      }
+    },
+    {
+      "id_hex": "0A",
+      "country_id_hex": "02",
+      "source_paragraph": 144,
+      "portrait": "images/portrait_011.png",
+      "name_english": "Golbelius",
+      "name_japanese": "ゴルベリアス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "0A",
+        "name_japanese": "大地の呪文",
+        "name_english": "Earth Spell"
+      }
+    },
+    {
+      "id_hex": "0B",
+      "country_id_hex": "03",
+      "source_paragraph": 161,
+      "portrait": "images/portrait_012.png",
+      "name_english": "Gupfi the 2nd",
+      "name_japanese": "ギュフィ2世",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "0B",
+        "name_japanese": "大地界の呪文",
+        "name_english": "Earth Realm Spell"
+      }
+    },
+    {
+      "id_hex": "0C",
+      "country_id_hex": "03",
+      "source_paragraph": 174,
+      "portrait": "images/portrait_013.png",
+      "name_english": "Sima Zwei",
+      "name_japanese": "シーマ・ツヴァイ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "0C",
+        "name_japanese": "天魔守地",
+        "name_english": "Heaven-Demon Earthguard"
+      }
+    },
+    {
+      "id_hex": "0D",
+      "country_id_hex": "03",
+      "source_paragraph": 187,
+      "portrait": "images/portrait_014.png",
+      "name_english": "Larogue",
+      "name_japanese": "ラーログ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "0D",
+        "name_japanese": "氷の呪文",
+        "name_english": "Ice Spell"
+      }
+    },
+    {
+      "id_hex": "0E",
+      "country_id_hex": "04",
+      "source_paragraph": 204,
+      "portrait": "images/portrait_015.png",
+      "name_english": "Slader",
+      "name_japanese": "スレッダー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "0E",
+        "name_japanese": "氷界の呪文",
+        "name_english": "Ice Realm Spell"
+      }
+    },
+    {
+      "id_hex": "0F",
+      "country_id_hex": "04",
+      "source_paragraph": 217,
+      "portrait": "images/portrait_016.png",
+      "name_english": "Achtaretes",
+      "name_japanese": "アーチャレテス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "0F",
+        "name_japanese": "天魔氷結",
+        "name_english": "Heaven-Demon Ice Bind"
+      }
+    },
+    {
+      "id_hex": "10",
+      "country_id_hex": "04",
+      "source_paragraph": 230,
+      "portrait": "images/portrait_017.png",
+      "name_english": "Duran",
+      "name_japanese": "デュラン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "10",
+        "name_japanese": "魔粧氷結樹",
+        "name_english": "Demonic Frost Tree"
+      }
+    },
+    {
+      "id_hex": "11",
+      "country_id_hex": "04",
+      "source_paragraph": 243,
+      "portrait": "images/portrait_018.png",
+      "name_english": "Razbel",
+      "name_japanese": "ラズベル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "11",
+        "name_japanese": "雷の呪文",
+        "name_english": "Thunder Spell"
+      }
+    },
+    {
+      "id_hex": "12",
+      "country_id_hex": "05",
+      "source_paragraph": 260,
+      "portrait": "images/portrait_019.png",
+      "name_english": "Meimy",
+      "name_japanese": "メイミー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "12",
+        "name_japanese": "爆雷の呪文",
+        "name_english": "Explosive Thunder Spell"
+      }
+    },
+    {
+      "id_hex": "13",
+      "country_id_hex": "05",
+      "source_paragraph": 273,
+      "portrait": "images/portrait_020.png",
+      "name_english": "Glaus",
+      "name_japanese": "グラウス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "13",
+        "name_japanese": "天魔爆雷",
+        "name_english": "Heaven-Demon Thunderblast"
+      }
+    },
+    {
+      "id_hex": "14",
+      "country_id_hex": "05",
+      "source_paragraph": 286,
+      "portrait": "images/portrait_021.png",
+      "name_english": "Dophan",
+      "name_japanese": "ドファン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "14",
+        "name_japanese": "異界の呪文",
+        "name_english": "Otherworld Spell"
+      }
+    },
+    {
+      "id_hex": "15",
+      "country_id_hex": "06",
+      "source_paragraph": 303,
+      "portrait": "images/portrait_022.png",
+      "name_english": "KorinKorin",
+      "name_japanese": "コリンコリン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "15",
+        "name_japanese": "亜空間の呪文",
+        "name_english": "Subspace Spell"
+      }
+    },
+    {
+      "id_hex": "16",
+      "country_id_hex": "06",
+      "source_paragraph": 316,
+      "portrait": "images/portrait_023.png",
+      "name_english": "Busaiku",
+      "name_japanese": "ブサイク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "16",
+        "name_japanese": "天魔異界門",
+        "name_english": "Heaven-Demon Otherworld Gate"
+      }
+    },
+    {
+      "id_hex": "17",
+      "country_id_hex": "06",
+      "source_paragraph": 329,
+      "portrait": "images/portrait_024.png",
+      "name_english": "HiyoKing",
+      "name_japanese": "ヒヨキング",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "17",
+        "name_japanese": "水の呪文",
+        "name_english": "Water Spell"
+      }
+    },
+    {
+      "id_hex": "18",
+      "country_id_hex": "07",
+      "source_paragraph": 346,
+      "portrait": "images/portrait_025.png",
+      "name_english": "Grey",
+      "name_japanese": "グレイ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "18",
+        "name_japanese": "水界の呪文",
+        "name_english": "Water Realm Spell"
+      }
+    },
+    {
+      "id_hex": "19",
+      "country_id_hex": "07",
+      "source_paragraph": 359,
+      "portrait": "images/portrait_026.png",
+      "name_english": "Ganmaha",
+      "name_japanese": "ガンマッハ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "19",
+        "name_japanese": "天魔命水",
+        "name_english": "Heaven-Demon Life Water"
+      }
+    },
+    {
+      "id_hex": "1A",
+      "country_id_hex": "07",
+      "source_paragraph": 372,
+      "portrait": "images/portrait_027.png",
+      "name_english": "Mura",
+      "name_japanese": "ミュラ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "1A",
+        "name_japanese": "流星の呪文",
+        "name_english": "Meteor Spell"
+      }
+    },
+    {
+      "id_hex": "1B",
+      "country_id_hex": "08",
+      "source_paragraph": 389,
+      "portrait": "images/portrait_028.png",
+      "name_english": "Pinky",
+      "name_japanese": "ピンキー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "1B",
+        "name_japanese": "流星雨の呪文",
+        "name_english": "Meteor Shower Spell"
+      }
+    },
+    {
+      "id_hex": "1C",
+      "country_id_hex": "08",
+      "source_paragraph": 402,
+      "portrait": "images/portrait_029.png",
+      "name_english": "Silky",
+      "name_japanese": "シルキー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "1C",
+        "name_japanese": "天魔流星陣",
+        "name_english": "Heaven-Demon Meteor Formation"
+      }
+    },
+    {
+      "id_hex": "1D",
+      "country_id_hex": "08",
+      "source_paragraph": 415,
+      "portrait": "images/portrait_030.png",
+      "name_english": "Lucky",
+      "name_japanese": "ラッキー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "1D",
+        "name_japanese": "幻惑の呪文",
+        "name_english": "Illusion Spell"
+      }
+    },
+    {
+      "id_hex": "1E",
+      "country_id_hex": "09",
+      "source_paragraph": 432,
+      "portrait": "images/portrait_031.png",
+      "name_english": "Grizer",
+      "name_japanese": "グリーザ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "1E",
+        "name_japanese": "恐怖の呪文",
+        "name_english": "Fear Spell"
+      }
+    },
+    {
+      "id_hex": "1F",
+      "country_id_hex": "09",
+      "source_paragraph": 445,
+      "portrait": "images/portrait_032.png",
+      "name_english": "Regain",
+      "name_japanese": "リガイン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "1F",
+        "name_japanese": "天魔幻夢陣",
+        "name_english": "Heaven-Demon Dream Formation"
+      }
+    },
+    {
+      "id_hex": "20",
+      "country_id_hex": "09",
+      "source_paragraph": 458,
+      "portrait": "images/portrait_033.png",
+      "name_english": "Jake",
+      "name_japanese": "ジェイク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "20",
+        "name_japanese": "風の呪文",
+        "name_english": "Wind Spell"
+      }
+    },
+    {
+      "id_hex": "21",
+      "country_id_hex": "0A",
+      "source_paragraph": 475,
+      "portrait": "images/portrait_034.png",
+      "name_english": "Wave",
+      "name_japanese": "ウェイブ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "21",
+        "name_japanese": "爆風の呪文",
+        "name_english": "Blast Wind Spell"
+      }
+    },
+    {
+      "id_hex": "22",
+      "country_id_hex": "0B",
+      "source_paragraph": 492,
+      "portrait": "images/portrait_035.png",
+      "name_english": "Altopher",
+      "name_japanese": "アルトファ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "22",
+        "name_japanese": "天魔疾風",
+        "name_english": "Heaven-Demon Gale"
+      }
+    },
+    {
+      "id_hex": "23",
+      "country_id_hex": "0B",
+      "source_paragraph": 505,
+      "portrait": "images/portrait_036.png",
+      "name_english": "Kyuis Kyu",
+      "name_japanese": "キュイズ・キュー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "23",
+        "name_japanese": "走火の呪文",
+        "name_english": "Raging Fire Spell"
+      }
+    },
+    {
+      "id_hex": "24",
+      "country_id_hex": "0B",
+      "source_paragraph": 518,
+      "portrait": "images/portrait_037.png",
+      "name_english": "Giz Rolfer",
+      "name_japanese": "ギズ・ロルファー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "24",
+        "name_japanese": "炎壁の呪文",
+        "name_english": "Flame Wall Spell"
+      }
+    },
+    {
+      "id_hex": "25",
+      "country_id_hex": "0C",
+      "source_paragraph": 535,
+      "portrait": "images/portrait_038.png",
+      "name_english": "Marimar",
+      "name_japanese": "マリマー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "25",
+        "name_japanese": "天魔龍紋陣",
+        "name_english": "Heaven-Demon Dragon Crest Formation"
+      }
+    },
+    {
+      "id_hex": "26",
+      "country_id_hex": "0C",
+      "source_paragraph": 548,
+      "portrait": "images/portrait_039.png",
+      "name_english": "Nyan",
+      "name_japanese": "ニャン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "26",
+        "name_japanese": "魔招・煉獄",
+        "name_english": "Demonic Summons: Purgatory"
+      }
+    },
+    {
+      "id_hex": "27",
+      "country_id_hex": "0C",
+      "source_paragraph": 561,
+      "portrait": "images/portrait_040.png",
+      "name_english": "Fuya",
+      "name_japanese": "フーヤ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "27",
+        "name_japanese": "飛炎の呪文",
+        "name_english": "Flying Flame Spell"
+      }
+    },
+    {
+      "id_hex": "28",
+      "country_id_hex": "0D",
+      "source_paragraph": 578,
+      "portrait": "images/portrait_041.png",
+      "name_english": "Aleice",
+      "name_japanese": "アレース",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "28",
+        "name_japanese": "炎弾の呪文",
+        "name_english": "Flame Shot Spell"
+      }
+    },
+    {
+      "id_hex": "29",
+      "country_id_hex": "0E",
+      "source_paragraph": 595,
+      "portrait": "images/portrait_042.png",
+      "name_english": "Aira",
+      "name_japanese": "アイラ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "29",
+        "name_japanese": "天魔烈火衛",
+        "name_english": "Heaven-Demon Blazing Guard"
+      }
+    },
+    {
+      "id_hex": "2A",
+      "country_id_hex": "0E",
+      "source_paragraph": 608,
+      "portrait": "images/portrait_043.png",
+      "name_english": "Bulmark",
+      "name_japanese": "ブルマク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "2A",
+        "name_japanese": "炎の呪文",
+        "name_english": "Fire Spell"
+      }
+    },
+    {
+      "id_hex": "2B",
+      "country_id_hex": "0E",
+      "source_paragraph": 621,
+      "portrait": "images/portrait_044.png",
+      "name_english": "Tarell",
+      "name_japanese": "タレル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "2B",
+        "name_japanese": "爆炎の呪文",
+        "name_english": "Explosive Flame Spell"
+      }
+    },
+    {
+      "id_hex": "2C",
+      "country_id_hex": "0E",
+      "source_paragraph": 634,
+      "portrait": "images/portrait_045.png",
+      "name_english": "Kulkum",
+      "name_japanese": "クールクム",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "2C",
+        "name_japanese": "天魔爆炎",
+        "name_english": "Heaven-Demon Explosion"
+      }
+    },
+    {
+      "id_hex": "2D",
+      "country_id_hex": "0E",
+      "source_paragraph": 647,
+      "portrait": "images/portrait_046.png",
+      "name_english": "Jyalka",
+      "name_japanese": "ジャールガ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "2D",
+        "name_japanese": "魔界粧・轟炎",
+        "name_english": "Demonworld Art: Roaring Flame"
+      }
+    },
+    {
+      "id_hex": "2E",
+      "country_id_hex": "0F",
+      "source_paragraph": 664,
+      "portrait": "images/portrait_047.png",
+      "name_english": "Pepe",
+      "name_japanese": "ペペ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "2E",
+        "name_japanese": "真魔界粧.轟炎",
+        "name_english": "True Demonworld Art: Roaring Flame"
+      }
+    },
+    {
+      "id_hex": "2F",
+      "country_id_hex": "0F",
+      "source_paragraph": 677,
+      "portrait": "images/portrait_048.png",
+      "name_english": "Paula",
+      "name_japanese": "パウラ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "2F",
+        "name_japanese": "病魔の呪文",
+        "name_english": "Plague Spell"
+      }
+    },
+    {
+      "id_hex": "30",
+      "country_id_hex": "10",
+      "source_paragraph": 694,
+      "portrait": "images/portrait_049.png",
+      "name_english": "Little Snow",
+      "name_japanese": "リトル・スノー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "30",
+        "name_japanese": "死病の呪文",
+        "name_english": "Death Plague Spell"
+      }
+    },
+    {
+      "id_hex": "31",
+      "country_id_hex": "10",
+      "source_paragraph": 707,
+      "portrait": "images/portrait_050.png",
+      "name_english": "Bagbat",
+      "name_japanese": "バグバット",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "31",
+        "name_japanese": "天魔死霊界",
+        "name_english": "Heaven-Demon Spirit Realm"
+      }
+    },
+    {
+      "id_hex": "32",
+      "country_id_hex": "10",
+      "source_paragraph": 720,
+      "portrait": "images/portrait_051.png",
+      "name_english": "Julie Sky",
+      "name_japanese": "ジュリー・スカイ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "32",
+        "name_japanese": "疾風手裏剣",
+        "name_english": "Gale Shuriken"
+      }
+    },
+    {
+      "id_hex": "33",
+      "country_id_hex": "11",
+      "source_paragraph": 737,
+      "portrait": "images/portrait_052.png",
+      "name_english": "Karma La Lu",
+      "name_japanese": "カーマ・ラ・ルー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "33",
+        "name_japanese": "虚空手裏剣",
+        "name_english": "Void Shuriken"
+      }
+    },
+    {
+      "id_hex": "34",
+      "country_id_hex": "11",
+      "source_paragraph": 750,
+      "portrait": "images/portrait_053.png",
+      "name_english": "Jamitos",
+      "name_japanese": "ジャミトス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "34",
+        "name_japanese": "裏奥義・阿修羅陣",
+        "name_english": "Secret Art: Asura Formation"
+      }
+    },
+    {
+      "id_hex": "35",
+      "country_id_hex": "11",
+      "source_paragraph": 763,
+      "portrait": "images/portrait_054.png",
+      "name_english": "Gedro",
+      "name_japanese": "ゲドロ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "35",
+        "name_japanese": "魔虫の呪文",
+        "name_english": "Demonic Insect Spell"
+      }
+    },
+    {
+      "id_hex": "36",
+      "country_id_hex": "12",
+      "source_paragraph": 780,
+      "portrait": "images/portrait_055.png",
+      "name_english": "Kyune",
+      "name_japanese": "ギュネ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "36",
+        "name_japanese": "魔虫群の呪文",
+        "name_english": "Demonic Swarm Spell"
+      }
+    },
+    {
+      "id_hex": "37",
+      "country_id_hex": "12",
+      "source_paragraph": 793,
+      "portrait": "images/portrait_056.png",
+      "name_english": "Manbie",
+      "name_japanese": "マンビー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "37",
+        "name_japanese": "召喚バジアルド",
+        "name_english": "Summon: Bajiald"
+      }
+    },
+    {
+      "id_hex": "38",
+      "country_id_hex": "12",
+      "source_paragraph": 806,
+      "portrait": "images/portrait_057.png",
+      "name_english": "Gyabu",
+      "name_japanese": "ギャプ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "38",
+        "name_japanese": "動樹の呪文",
+        "name_english": "Living Tree Spell"
+      }
+    },
+    {
+      "id_hex": "39",
+      "country_id_hex": "12",
+      "source_paragraph": 819,
+      "portrait": "images/portrait_058.png",
+      "name_english": "Ryu",
+      "name_japanese": "リュウ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "39",
+        "name_japanese": "操樹の呪文",
+        "name_english": "Tree Control Spell"
+      }
+    },
+    {
+      "id_hex": "3A",
+      "country_id_hex": "13",
+      "source_paragraph": 836,
+      "portrait": "images/portrait_059.png",
+      "name_english": "Trick Blue",
+      "name_japanese": "トリック・ブルー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "3A",
+        "name_japanese": "天魔樹操魂",
+        "name_english": "Heaven-Demon Tree Soul Control"
+      }
+    },
+    {
+      "id_hex": "3B",
+      "country_id_hex": "13",
+      "source_paragraph": 849,
+      "portrait": "images/portrait_060.png",
+      "name_english": "Annabelle",
+      "name_japanese": "アナベル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "3B",
+        "name_japanese": "烈火死霊斬",
+        "name_english": "Blazing Spirit Slash"
+      }
+    },
+    {
+      "id_hex": "3C",
+      "country_id_hex": "14",
+      "source_paragraph": 866,
+      "portrait": "images/portrait_061.png",
+      "name_english": "Twenty",
+      "name_japanese": "トゥエンティー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "3C",
+        "name_japanese": "聖剣ラングート",
+        "name_english": "Holy Sword Langute"
+      }
+    },
+    {
+      "id_hex": "3D",
+      "country_id_hex": "14",
+      "source_paragraph": 879,
+      "portrait": "images/portrait_062.png",
+      "name_english": "Thirteen",
+      "name_japanese": "サーティーン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "3D",
+        "name_japanese": "ラ・デルフェス",
+        "name_english": "La Delfes"
+      }
+    },
+    {
+      "id_hex": "3E",
+      "country_id_hex": "15",
+      "source_paragraph": 896,
+      "portrait": "images/portrait_063.png",
+      "name_english": "Shion",
+      "name_japanese": "シオン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "3E",
+        "name_japanese": "壱之太刀辻風",
+        "name_english": "First Blade: Crosswind"
+      }
+    },
+    {
+      "id_hex": "3F",
+      "country_id_hex": "15",
+      "source_paragraph": 909,
+      "portrait": "images/portrait_064.png",
+      "name_english": "Amarine",
+      "name_japanese": "アーマリン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "3F",
+        "name_japanese": "返し刃双竜閃",
+        "name_english": "Returning Blade: Twin Dragon Flash"
+      }
+    },
+    {
+      "id_hex": "40",
+      "country_id_hex": "15",
+      "source_paragraph": 922,
+      "portrait": "images/portrait_065.png",
+      "name_english": "Tritoph",
+      "name_japanese": "トリトフ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "40",
+        "name_japanese": "流星剣",
+        "name_english": "Meteor Sword"
+      }
+    },
+    {
+      "id_hex": "41",
+      "country_id_hex": "15",
+      "source_paragraph": 935,
+      "portrait": "images/portrait_066.png",
+      "name_english": "Nobu Garasu",
+      "name_japanese": "ノブ＝ガラス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "41",
+        "name_japanese": "ソニックブレイブ",
+        "name_english": "Sonic Brave"
+      }
+    },
+    {
+      "id_hex": "42",
+      "country_id_hex": "16",
+      "source_paragraph": 952,
+      "portrait": "images/portrait_067.png",
+      "name_english": "Ineou",
+      "name_japanese": "イヌオウ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "42",
+        "name_japanese": "黒煙障壁",
+        "name_english": "Black Smoke Barrier"
+      }
+    },
+    {
+      "id_hex": "43",
+      "country_id_hex": "16",
+      "source_paragraph": 965,
+      "portrait": "images/portrait_068.png",
+      "name_english": "Gunhearts",
+      "name_japanese": "ガンハーツ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "43",
+        "name_japanese": "ランシュバイク",
+        "name_english": "Ranshuvaik"
+      }
+    },
+    {
+      "id_hex": "44",
+      "country_id_hex": "17",
+      "source_paragraph": 982,
+      "portrait": "images/portrait_069.png",
+      "name_english": "Genova",
+      "name_japanese": "ジェノバ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "44",
+        "name_japanese": "裏奥義.殺滅殺",
+        "name_english": "Secret Art: Slaughter"
+      }
+    },
+    {
+      "id_hex": "45",
+      "country_id_hex": "17",
+      "source_paragraph": 994,
+      "portrait": "images/portrait_070.png",
+      "name_english": "Anthony",
+      "name_japanese": "アンソニー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "45",
+        "name_japanese": "SD・セレナーデ",
+        "name_english": "SD Serenade"
+      }
+    },
+    {
+      "id_hex": "46",
+      "country_id_hex": "17",
+      "source_paragraph": 1007,
+      "portrait": "images/portrait_071.png",
+      "name_english": "Krakan",
+      "name_japanese": "クラカン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "46",
+        "name_japanese": "エスペラント・W",
+        "name_english": "Esperanto W"
+      }
+    },
+    {
+      "id_hex": "47",
+      "country_id_hex": "17",
+      "source_paragraph": 1020,
+      "portrait": "images/portrait_072.png",
+      "name_english": "Knuckle",
+      "name_japanese": "ナックル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "47",
+        "name_japanese": "エアロストリーム",
+        "name_english": "Aero Stream"
+      }
+    },
+    {
+      "id_hex": "48",
+      "country_id_hex": "17",
+      "source_paragraph": 1032,
+      "portrait": "images/portrait_073.png",
+      "name_english": "Toffas",
+      "name_japanese": "トーフス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "48",
+        "name_japanese": "血液凝固弾",
+        "name_english": "Blood Coagulation Shot"
+      }
+    },
+    {
+      "id_hex": "49",
+      "country_id_hex": "18",
+      "source_paragraph": 1049,
+      "portrait": "images/portrait_074.png",
+      "name_english": "Break",
+      "name_japanese": "ブレイク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "49",
+        "name_japanese": "毒殺弾道砲",
+        "name_english": "Poison Ballistic Cannon"
+      }
+    },
+    {
+      "id_hex": "4A",
+      "country_id_hex": "18",
+      "source_paragraph": 1062,
+      "portrait": "images/portrait_075.png",
+      "name_english": "Camichere",
+      "name_japanese": "カミシア",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "4A",
+        "name_japanese": "特別部隊",
+        "name_english": "Special Unit"
+      }
+    },
+    {
+      "id_hex": "4B",
+      "country_id_hex": "18",
+      "source_paragraph": 1075,
+      "portrait": "images/portrait_076.png",
+      "name_english": "Gigas",
+      "name_japanese": "ギガス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "4B",
+        "name_japanese": "月組忍法光陰脚",
+        "name_english": "Moon Squad Ninja Art: Light-and-Shadow Kick"
+      }
+    },
+    {
+      "id_hex": "4C",
+      "country_id_hex": "19",
+      "source_paragraph": 1092,
+      "portrait": "images/portrait_077.png",
+      "name_english": "Ilheart",
+      "name_japanese": "イルハート",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "4C",
+        "name_japanese": "瞬殺光波",
+        "name_english": "Instant-Kill Light Wave"
+      }
+    },
+    {
+      "id_hex": "1A",
+      "country_id_hex": "19",
+      "source_paragraph": 1106,
+      "portrait": null,
+      "name_english": "Gulkash",
+      "name_japanese": "ガルカシュ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "1A",
+        "name_japanese": "流星の呪文",
+        "name_english": "Meteor Spell"
+      }
+    },
+    {
+      "id_hex": "4D",
+      "country_id_hex": "19",
+      "source_paragraph": 1109,
+      "portrait": "images/portrait_078.png",
+      "name_english": "Han de Kuru",
+      "name_japanese": "ハン・デ・クル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "4D",
+        "name_japanese": "瞬殺光波　改",
+        "name_english": "Instant-Kill Light Wave: Kai"
+      }
+    },
+    {
+      "id_hex": "4E",
+      "country_id_hex": "19",
+      "source_paragraph": 1122,
+      "portrait": "images/portrait_079.png",
+      "name_english": "Marille",
+      "name_japanese": "マリル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "4E",
+        "name_japanese": "瞬殺螺旋光波",
+        "name_english": "Instant-Kill Spiral Light Wave"
+      }
+    },
+    {
+      "id_hex": "4F",
+      "country_id_hex": "1B",
+      "source_paragraph": 1139,
+      "portrait": "images/portrait_080.png",
+      "name_english": "7th Hamaou",
+      "name_japanese": "7代ハマオウ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "4F",
+        "name_japanese": "烈鋼斬旋回撃",
+        "name_english": "Fierce Steel Spinning Slash"
+      }
+    },
+    {
+      "id_hex": "50",
+      "country_id_hex": "1B",
+      "source_paragraph": 1152,
+      "portrait": "images/portrait_081.png",
+      "name_english": "Zangeki",
+      "name_japanese": "ザンゲキ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "50",
+        "name_japanese": "D・キャリバー",
+        "name_english": "D-Calibur"
+      }
+    },
+    {
+      "id_hex": "51",
+      "country_id_hex": "1B",
+      "source_paragraph": 1165,
+      "portrait": "images/portrait_082.png",
+      "name_english": "Renfo",
+      "name_japanese": "レンフォー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "51",
+        "name_japanese": "Fワールウィンド",
+        "name_english": "F Whirlwind"
+      }
+    },
+    {
+      "id_hex": "52",
+      "country_id_hex": "1C",
+      "source_paragraph": 1182,
+      "portrait": "images/portrait_083.png",
+      "name_english": "Zaflack",
+      "name_japanese": "ザーフラク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "52",
+        "name_japanese": "G・シュトローム",
+        "name_english": "G Strom"
+      }
+    },
+    {
+      "id_hex": "53",
+      "country_id_hex": "1C",
+      "source_paragraph": 1195,
+      "portrait": "images/portrait_084.png",
+      "name_english": "Gridof",
+      "name_japanese": "グリドフ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "53",
+        "name_japanese": "ヤクトダガー",
+        "name_english": "Jagd Dagger"
+      }
+    },
+    {
+      "id_hex": "54",
+      "country_id_hex": "1C",
+      "source_paragraph": 1208,
+      "portrait": "images/portrait_085.png",
+      "name_english": "Dominim",
+      "name_japanese": "ドミニム",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "54",
+        "name_japanese": "天魔水槍斬",
+        "name_english": "Heaven-Demon Water Spear Slash"
+      }
+    },
+    {
+      "id_hex": "55",
+      "country_id_hex": "1C",
+      "source_paragraph": 1221,
+      "portrait": "images/portrait_086.png",
+      "name_english": "Gyarin",
+      "name_japanese": "ギャリン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "55",
+        "name_japanese": "ロイエストライク",
+        "name_english": "Loyest Strike"
+      }
+    },
+    {
+      "id_hex": "56",
+      "country_id_hex": "1C",
+      "source_paragraph": 1234,
+      "portrait": "images/portrait_087.png",
+      "name_english": "Zilon",
+      "name_japanese": "ジルオン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "56",
+        "name_japanese": "エクセランシータ",
+        "name_english": "Excelancita"
+      }
+    },
+    {
+      "id_hex": "57",
+      "country_id_hex": "1C",
+      "source_paragraph": 1247,
+      "portrait": "images/portrait_088.png",
+      "name_english": "Luseida",
+      "name_japanese": "ルーセイダー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "57",
+        "name_japanese": "H・ファルート",
+        "name_english": "H Falut"
+      }
+    },
+    {
+      "id_hex": "58",
+      "country_id_hex": "1D",
+      "source_paragraph": 1264,
+      "portrait": "images/portrait_089.png",
+      "name_english": "Oyama",
+      "name_japanese": "オヤマ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "58",
+        "name_japanese": "Sイリュージョン",
+        "name_english": "S Illusion"
+      }
+    },
+    {
+      "id_hex": "59",
+      "country_id_hex": "1D",
+      "source_paragraph": 1277,
+      "portrait": "images/portrait_090.png",
+      "name_english": "Shinosis",
+      "name_japanese": "シニシス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "59",
+        "name_japanese": "最後の光",
+        "name_english": "Last Light"
+      }
+    },
+    {
+      "id_hex": "5A",
+      "country_id_hex": "1D",
+      "source_paragraph": 1290,
+      "portrait": "images/portrait_091.png",
+      "name_english": "Tapashi",
+      "name_japanese": "タパーシ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "5A",
+        "name_japanese": "浄化の光",
+        "name_english": "Light of Purification"
+      }
+    },
+    {
+      "id_hex": "5B",
+      "country_id_hex": "1D",
+      "source_paragraph": 1303,
+      "portrait": "images/portrait_092.png",
+      "name_english": "Snatch",
+      "name_japanese": "スナッチ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "5B",
+        "name_japanese": "死の癒し",
+        "name_english": "Healing of Death"
+      }
+    },
+    {
+      "id_hex": "5C",
+      "country_id_hex": "1E",
+      "source_paragraph": 1320,
+      "portrait": "images/portrait_093.png",
+      "name_english": "Chiffon",
+      "name_japanese": "シフォン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "5C",
+        "name_japanese": "うさぎ天国",
+        "name_english": "Rabbit Paradise"
+      }
+    },
+    {
+      "id_hex": "5D",
+      "country_id_hex": "1E",
+      "source_paragraph": 1333,
+      "portrait": "images/portrait_094.png",
+      "name_english": "Chris",
+      "name_japanese": "クリス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "5D",
+        "name_japanese": "H・メテオール",
+        "name_english": "H Meteor"
+      }
+    },
+    {
+      "id_hex": "5E",
+      "country_id_hex": "1E",
+      "source_paragraph": 1346,
+      "portrait": "images/portrait_095.png",
+      "name_english": "Ranzie",
+      "name_japanese": "ランジェ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "5E",
+        "name_japanese": "召喚ゴーレム",
+        "name_english": "Summon Golem"
+      }
+    },
+    {
+      "id_hex": "5F",
+      "country_id_hex": "1E",
+      "source_paragraph": 1359,
+      "portrait": "images/portrait_096.png",
+      "name_english": "Erutina",
+      "name_japanese": "エルティナ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "5F",
+        "name_japanese": "邪神ヘルズジーン",
+        "name_english": "Evil God Hellz Gene"
+      }
+    },
+    {
+      "id_hex": "60",
+      "country_id_hex": "1E",
+      "source_paragraph": 1372,
+      "portrait": "images/portrait_097.png",
+      "name_english": "Lutie",
+      "name_japanese": "ルーチェ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "60",
+        "name_japanese": "龍声ゴルベリアス",
+        "name_english": "Dragon Voice Golberius"
+      }
+    },
+    {
+      "id_hex": "61",
+      "country_id_hex": "1F",
+      "source_paragraph": 1389,
+      "portrait": "images/portrait_098.png",
+      "name_english": "Cliff Riff",
+      "name_japanese": "クリフ・リフ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "61",
+        "name_japanese": "女神降臨",
+        "name_english": "Goddess Descent"
+      }
+    },
+    {
+      "id_hex": "62",
+      "country_id_hex": "1F",
+      "source_paragraph": 1402,
+      "portrait": "images/portrait_099.png",
+      "name_english": "Popongo",
+      "name_japanese": "ボボンゴ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "62",
+        "name_japanese": "殺意の呪い",
+        "name_english": "Curse of Killing Intent"
+      }
+    },
+    {
+      "id_hex": "63",
+      "country_id_hex": "20",
+      "source_paragraph": 1419,
+      "portrait": "images/portrait_100.png",
+      "name_english": "Marknoya",
+      "name_japanese": "マークノイヤ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "63",
+        "name_japanese": "殺界の呪い",
+        "name_english": "Curse of the Killing Realm"
+      }
+    },
+    {
+      "id_hex": "64",
+      "country_id_hex": "20",
+      "source_paragraph": 1432,
+      "portrait": "images/portrait_101.png",
+      "name_english": "Nappa",
+      "name_japanese": "ナッパ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "64",
+        "name_japanese": "天魔念呪殺",
+        "name_english": "Heaven-Demon Mind Curse"
+      }
+    },
+    {
+      "id_hex": "65",
+      "country_id_hex": "20",
+      "source_paragraph": 1445,
+      "portrait": "images/portrait_102.png",
+      "name_english": "Eito",
+      "name_japanese": "エイト",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "65",
+        "name_japanese": "D・P・マッスル",
+        "name_english": "D.P. Muscle"
+      }
+    },
+    {
+      "id_hex": "66",
+      "country_id_hex": "21",
+      "source_paragraph": 1462,
+      "portrait": "images/portrait_103.png",
+      "name_english": "DeiDei",
+      "name_japanese": "ディ・ディ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "66",
+        "name_japanese": "魔界粧黒霊陣",
+        "name_english": "Demonworld Art: Black Spirit Formation"
+      }
+    },
+    {
+      "id_hex": "67",
+      "country_id_hex": "21",
+      "source_paragraph": 1475,
+      "portrait": "images/portrait_104.png",
+      "name_english": "Thirsty",
+      "name_japanese": "サスティ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "67",
+        "name_japanese": "真魔界粧黒霊陣",
+        "name_english": "True Demonworld Art: Black Spirit Formation"
+      }
+    },
+    {
+      "id_hex": "68",
+      "country_id_hex": "21",
+      "source_paragraph": 1488,
+      "portrait": "images/portrait_105.png",
+      "name_english": "Junk",
+      "name_japanese": "ジャンク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "68",
+        "name_japanese": "月光回復の祈り",
+        "name_english": "Moonlight Healing Prayer"
+      }
+    },
+    {
+      "id_hex": "69",
+      "country_id_hex": "22",
+      "source_paragraph": 1505,
+      "portrait": "images/portrait_106.png",
+      "name_english": "Azalea",
+      "name_japanese": "アゼレア",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "69",
+        "name_japanese": "月光聖回復の祈り",
+        "name_english": "Moonlight Holy Healing Prayer"
+      }
+    },
+    {
+      "id_hex": "6A",
+      "country_id_hex": "22",
+      "source_paragraph": 1518,
+      "portrait": "images/portrait_107.png",
+      "name_english": "Regal Lily",
+      "name_japanese": "リーガルリリー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "6A",
+        "name_japanese": "月下復活の呪文",
+        "name_english": "Moonlit Resurrection Spell"
+      }
+    },
+    {
+      "id_hex": "6B",
+      "country_id_hex": "22",
+      "source_paragraph": 1531,
+      "portrait": "images/portrait_108.png",
+      "name_english": "Prominent",
+      "name_japanese": "プロミネント",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "6B",
+        "name_japanese": "ムーンセイバー",
+        "name_english": "Moon Saber"
+      }
+    },
+    {
+      "id_hex": "6C",
+      "country_id_hex": "22",
+      "source_paragraph": 1544,
+      "portrait": "images/portrait_109.png",
+      "name_english": "Iceberg",
+      "name_japanese": "アイスバーグ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "6C",
+        "name_japanese": "防御の呪文",
+        "name_english": "Defense Spell"
+      }
+    },
+    {
+      "id_hex": "6D",
+      "country_id_hex": "22",
+      "source_paragraph": 1557,
+      "portrait": "images/portrait_110.png",
+      "name_english": "Fabarge",
+      "name_japanese": "ファバージュ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "6D",
+        "name_japanese": "防壁の呪文",
+        "name_english": "Barrier Spell"
+      }
+    },
+    {
+      "id_hex": "6E",
+      "country_id_hex": "23",
+      "source_paragraph": 1574,
+      "portrait": "images/portrait_111.png",
+      "name_english": "Helgaia",
+      "name_japanese": "ヘルガイア",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "6E",
+        "name_japanese": "天魔聖障壁",
+        "name_english": "Heaven-Demon Holy Barrier"
+      }
+    },
+    {
+      "id_hex": "6F",
+      "country_id_hex": "23",
+      "source_paragraph": 1587,
+      "portrait": "images/portrait_112.png",
+      "name_english": "Joke",
+      "name_japanese": "ゾック",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "6F",
+        "name_japanese": "聖防御の呪文",
+        "name_english": "Holy Defense Spell"
+      }
+    },
+    {
+      "id_hex": "70",
+      "country_id_hex": "24",
+      "source_paragraph": 1604,
+      "portrait": "images/portrait_113.png",
+      "name_english": "Simba",
+      "name_japanese": "シンバ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "70",
+        "name_japanese": "聖防壁の呪文",
+        "name_english": "Holy Barrier Spell"
+      }
+    },
+    {
+      "id_hex": "71",
+      "country_id_hex": "24",
+      "source_paragraph": 1617,
+      "portrait": "images/portrait_114.png",
+      "name_english": "Solty",
+      "name_japanese": "ソルティ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "71",
+        "name_japanese": "天魔封殺掌",
+        "name_english": "Heaven-Demon Sealing Palm"
+      }
+    },
+    {
+      "id_hex": "72",
+      "country_id_hex": "24",
+      "source_paragraph": 1630,
+      "portrait": "images/portrait_115.png",
+      "name_english": "NeoYama",
+      "name_japanese": "新山",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "72",
+        "name_japanese": "反射結界",
+        "name_english": "Reflective Barrier"
+      }
+    },
+    {
+      "id_hex": "73",
+      "country_id_hex": "25",
+      "source_paragraph": 1647,
+      "portrait": "images/portrait_116.png",
+      "name_english": "Karasuma",
+      "name_japanese": "烏丸",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "73",
+        "name_japanese": "封神結界",
+        "name_english": "Deity-Sealing Barrier"
+      }
+    },
+    {
+      "id_hex": "74",
+      "country_id_hex": "25",
+      "source_paragraph": 1660,
+      "portrait": "images/portrait_117.png",
+      "name_english": "Goryu",
+      "name_japanese": "五龍",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "74",
+        "name_japanese": "天魔封神反射",
+        "name_english": "Heaven-Demon Sealing Reflection"
+      }
+    },
+    {
+      "id_hex": "75",
+      "country_id_hex": "25",
+      "source_paragraph": 1673,
+      "portrait": "images/portrait_118.png",
+      "name_english": "Hashira",
+      "name_japanese": "柱",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "75",
+        "name_japanese": "R・プラティーン",
+        "name_english": "R Platine"
+      }
+    },
+    {
+      "id_hex": "76",
+      "country_id_hex": "26",
+      "source_paragraph": 1689,
+      "portrait": "images/portrait_119.png",
+      "name_english": "Tina",
+      "name_japanese": "ティナ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "76",
+        "name_japanese": "治癒の祈り",
+        "name_english": "Healing Prayer"
+      }
+    },
+    {
+      "id_hex": "77",
+      "country_id_hex": "26",
+      "source_paragraph": 1702,
+      "portrait": "images/portrait_120.png",
+      "name_english": "Rato",
+      "name_japanese": "ラト",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "77",
+        "name_japanese": "回復の祈り",
+        "name_english": "Recovery Prayer"
+      }
+    },
+    {
+      "id_hex": "78",
+      "country_id_hex": "26",
+      "source_paragraph": 1715,
+      "portrait": "images/portrait_121.png",
+      "name_english": "Rimm",
+      "name_japanese": "リム",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "78",
+        "name_japanese": "グリーンノア",
+        "name_english": "Green Noah"
+      }
+    },
+    {
+      "id_hex": "79",
+      "country_id_hex": "27",
+      "source_paragraph": 1732,
+      "portrait": "images/portrait_122.png",
+      "name_english": "Saitos",
+      "name_japanese": "サイトゥス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "79",
+        "name_japanese": "天魔慈愛祈",
+        "name_english": "Heaven-Demon Prayer of Compassion"
+      }
+    },
+    {
+      "id_hex": "7A",
+      "country_id_hex": "27",
+      "source_paragraph": 1745,
+      "portrait": "images/portrait_123.png",
+      "name_english": "Kojon",
+      "name_japanese": "コジョン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "7A",
+        "name_japanese": "ヴィエラージュ",
+        "name_english": "Vierge"
+      }
+    },
+    {
+      "id_hex": "7B",
+      "country_id_hex": "27",
+      "source_paragraph": 1758,
+      "portrait": "images/portrait_124.png",
+      "name_english": "Maimin",
+      "name_japanese": "マイミン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "7B",
+        "name_japanese": "強化の呪文",
+        "name_english": "Enhancement Spell"
+      }
+    },
+    {
+      "id_hex": "7C",
+      "country_id_hex": "27",
+      "source_paragraph": 1772,
+      "portrait": "images/portrait_125.png",
+      "name_english": "Hiro",
+      "name_japanese": "ヒロ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "7C",
+        "name_japanese": "増強の呪文",
+        "name_english": "Augmentation Spell"
+      }
+    },
+    {
+      "id_hex": "7D",
+      "country_id_hex": "27",
+      "source_paragraph": 1785,
+      "portrait": "images/portrait_126.png",
+      "name_english": "Sato",
+      "name_japanese": "サトー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "7D",
+        "name_japanese": "天魔金剛掌",
+        "name_english": "Heaven-Demon Adamantine Palm"
+      }
+    },
+    {
+      "id_hex": "7E",
+      "country_id_hex": "27",
+      "source_paragraph": 1798,
+      "portrait": "images/portrait_127.png",
+      "name_english": "Zakifon",
+      "name_japanese": "ザキフォン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "7E",
+        "name_japanese": "静寂",
+        "name_english": "Silence"
+      }
+    },
+    {
+      "id_hex": "7F",
+      "country_id_hex": "27",
+      "source_paragraph": 1811,
+      "portrait": "images/portrait_128.png",
+      "name_english": "Chiku",
+      "name_japanese": "チク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "7F",
+        "name_japanese": "降雨",
+        "name_english": "Rainfall"
+      }
+    },
+    {
+      "id_hex": "80",
+      "country_id_hex": "27",
+      "source_paragraph": 1824,
+      "portrait": "images/portrait_129.png",
+      "name_english": "Hiro 2",
+      "name_japanese": "ヒロ2",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "80",
+        "name_japanese": "風招",
+        "name_english": "Wind Summoning"
+      }
+    },
+    {
+      "id_hex": "81",
+      "country_id_hex": "27",
+      "source_paragraph": 1837,
+      "portrait": "images/portrait_130.png",
+      "name_english": "True Jadou",
+      "name_japanese": "真ジャドウ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "81",
+        "name_japanese": "来霧",
+        "name_english": "Summon Mist"
+      }
+    },
+    {
+      "id_hex": "82",
+      "country_id_hex": "27",
+      "source_paragraph": 1850,
+      "portrait": "images/portrait_131.png",
+      "name_english": "Next",
+      "name_japanese": "ネクスト",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "82",
+        "name_japanese": "陽光",
+        "name_english": "Sunlight"
+      }
+    },
+    {
+      "id_hex": "83",
+      "country_id_hex": "27",
+      "source_paragraph": 1863,
+      "portrait": "images/portrait_132.png",
+      "name_english": "Mars",
+      "name_japanese": "マルス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "83",
+        "name_japanese": "闇門",
+        "name_english": "Dark Gate"
+      }
+    },
+    {
+      "id_hex": "84",
+      "country_id_hex": "27",
+      "source_paragraph": 1876,
+      "portrait": "images/portrait_133.png",
+      "name_english": "Flasher",
+      "name_japanese": "フラッシャー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "84",
+        "name_japanese": "熱風",
+        "name_english": "Hot Wind"
+      }
+    },
+    {
+      "id_hex": "85",
+      "country_id_hex": "27",
+      "source_paragraph": 1889,
+      "portrait": "images/portrait_134.png",
+      "name_english": "Janes",
+      "name_japanese": "ジャネス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "85",
+        "name_japanese": "凍土",
+        "name_english": "Frozen Ground"
+      }
+    },
+    {
+      "id_hex": "86",
+      "country_id_hex": "27",
+      "source_paragraph": 1902,
+      "portrait": "images/portrait_135.png",
+      "name_english": "Prana",
+      "name_japanese": "プラーナ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "86",
+        "name_japanese": "魔法空間",
+        "name_english": "Magic Space"
+      }
+    },
+    {
+      "id_hex": "87",
+      "country_id_hex": "27",
+      "source_paragraph": 1915,
+      "portrait": "images/portrait_136.png",
+      "name_english": "Korea",
+      "name_japanese": "コリーア",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "87",
+        "name_japanese": "裏奥義・封神閃",
+        "name_english": "Secret Art: Sealing Flash"
+      }
+    },
+    {
+      "id_hex": "88",
+      "country_id_hex": "27",
+      "source_paragraph": 1928,
+      "portrait": "images/portrait_137.png",
+      "name_english": "Epsilon",
+      "name_japanese": "イプシロン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "88",
+        "name_japanese": "裏奥義・封神閃",
+        "name_english": "Secret Art: Sealing Flash"
+      }
+    },
+    {
+      "id_hex": "89",
+      "country_id_hex": "27",
+      "source_paragraph": 1941,
+      "portrait": "images/portrait_138.png",
+      "name_english": "Mugen",
+      "name_japanese": "ムゲン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "89",
+        "name_japanese": "瞬殺光波",
+        "name_english": "Instant-Kill Light Wave"
+      }
+    },
+    {
+      "id_hex": "8A",
+      "country_id_hex": "27",
+      "source_paragraph": 1954,
+      "portrait": "images/portrait_139.png",
+      "name_english": "Sam",
+      "name_japanese": "セイム",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "8A",
+        "name_japanese": "ラ・デルフェス",
+        "name_english": "La Delfes"
+      }
+    },
+    {
+      "id_hex": "8B",
+      "country_id_hex": "27",
+      "source_paragraph": 1967,
+      "portrait": "images/portrait_140.png",
+      "name_english": "Brimorin",
+      "name_japanese": "ブリモリン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "8B",
+        "name_japanese": "グリーンノア",
+        "name_english": "Green Noah"
+      }
+    },
+    {
+      "id_hex": "8C",
+      "country_id_hex": "27",
+      "source_paragraph": 1980,
+      "portrait": "images/portrait_141.png",
+      "name_english": "Brigator",
+      "name_japanese": "ブリガトー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "8C",
+        "name_japanese": "グリーンノア",
+        "name_english": "Green Noah"
+      }
+    },
+    {
+      "id_hex": "8D",
+      "country_id_hex": "27",
+      "source_paragraph": 1993,
+      "portrait": "images/portrait_142.png",
+      "name_english": "Million",
+      "name_japanese": "ミリオン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "8D",
+        "name_japanese": "グリーンノア",
+        "name_english": "Green Noah"
+      }
+    },
+    {
+      "id_hex": "8E",
+      "country_id_hex": "27",
+      "source_paragraph": 2006,
+      "portrait": "images/portrait_143.png",
+      "name_english": "Zap Roy",
+      "name_japanese": "ザップ・ロイ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "8E",
+        "name_japanese": "天魔異界門",
+        "name_english": "Heaven-Demon Otherworld Gate"
+      }
+    },
+    {
+      "id_hex": "8F",
+      "country_id_hex": "27",
+      "source_paragraph": 2019,
+      "portrait": "images/portrait_144.png",
+      "name_english": "Ladui",
+      "name_japanese": "ラーデゥイ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "8F",
+        "name_japanese": "天魔最終",
+        "name_english": "Heaven-Demon Final"
+      }
+    },
+    {
+      "id_hex": "90",
+      "country_id_hex": "27",
+      "source_paragraph": 2032,
+      "portrait": "images/portrait_145.png",
+      "name_english": "Gromyu",
+      "name_japanese": "グロミュー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "90",
+        "name_japanese": "T・ウィップ",
+        "name_english": "T Whip"
+      }
+    },
+    {
+      "id_hex": "91",
+      "country_id_hex": "27",
+      "source_paragraph": 2045,
+      "portrait": "images/portrait_146.png",
+      "name_english": "Al",
+      "name_japanese": "アル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "91",
+        "name_japanese": "皇竜轟雷掌",
+        "name_english": "Imperial Dragon Thunderclap Palm"
+      }
+    },
+    {
+      "id_hex": "92",
+      "country_id_hex": "27",
+      "source_paragraph": 2058,
+      "portrait": "images/portrait_147.png",
+      "name_english": "Gaizar",
+      "name_japanese": "ガイザー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "92",
+        "name_japanese": "インフェルノ",
+        "name_english": "Inferno"
+      }
+    },
+    {
+      "id_hex": "93",
+      "country_id_hex": "27",
+      "source_paragraph": 2071,
+      "portrait": "images/portrait_148.png",
+      "name_english": "Gaizang",
+      "name_japanese": "ガイザン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "93",
+        "name_japanese": "アクエリア",
+        "name_english": "Aquaria"
+      }
+    },
+    {
+      "id_hex": "94",
+      "country_id_hex": "27",
+      "source_paragraph": 2084,
+      "portrait": "images/portrait_149.png",
+      "name_english": "Gerah",
+      "name_japanese": "ゲラ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "94",
+        "name_japanese": "ウィンダール",
+        "name_english": "Windale"
+      }
+    },
+    {
+      "id_hex": "95",
+      "country_id_hex": "27",
+      "source_paragraph": 2097,
+      "portrait": "images/portrait_150.png",
+      "name_english": "Mark",
+      "name_japanese": "マーク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "95",
+        "name_japanese": "ギガント",
+        "name_english": "Gigant"
+      }
+    },
+    {
+      "id_hex": "96",
+      "country_id_hex": "27",
+      "source_paragraph": 2110,
+      "portrait": "images/portrait_151.png",
+      "name_english": "Sofulan",
+      "name_japanese": "ソフラン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "96",
+        "name_japanese": "フェンリル",
+        "name_english": "Fenrir"
+      }
+    },
+    {
+      "id_hex": "97",
+      "country_id_hex": "27",
+      "source_paragraph": 2123,
+      "portrait": "images/portrait_152.png",
+      "name_english": "Greshatra",
+      "name_japanese": "グレーシャトラ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "97",
+        "name_japanese": "レリエル",
+        "name_english": "Leliel"
+      }
+    },
+    {
+      "id_hex": "98",
+      "country_id_hex": "27",
+      "source_paragraph": 2136,
+      "portrait": "images/portrait_153.png",
+      "name_english": "Sigma",
+      "name_japanese": "シグマ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "98",
+        "name_japanese": "精霊王XX",
+        "name_english": "Spirit King XX"
+      }
+    },
+    {
+      "id_hex": "99",
+      "country_id_hex": "27",
+      "source_paragraph": 2149,
+      "portrait": "images/portrait_154.png",
+      "name_english": "Chemris",
+      "name_japanese": "ケムリス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "99",
+        "name_japanese": "閃きの竜線",
+        "name_english": "Dragon Line of Inspiration"
+      }
+    },
+    {
+      "id_hex": "9A",
+      "country_id_hex": "27",
+      "source_paragraph": 2162,
+      "portrait": "images/portrait_155.png",
+      "name_english": "Sharon",
+      "name_japanese": "シャロン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "9A",
+        "name_japanese": "石守りの至光",
+        "name_english": "Ultimate Light of the Stone Guardian"
+      }
+    },
+    {
+      "id_hex": "9B",
+      "country_id_hex": "27",
+      "source_paragraph": 2175,
+      "portrait": "images/portrait_156.png",
+      "name_english": "Luborg",
+      "name_japanese": "ルーボーグ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "9B",
+        "name_japanese": "通過の儀式",
+        "name_english": "Rite of Passage"
+      }
+    },
+    {
+      "id_hex": "9C",
+      "country_id_hex": "27",
+      "source_paragraph": 2188,
+      "portrait": "images/portrait_157.png",
+      "name_english": "Zubak",
+      "name_japanese": "ズーバック",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "9C",
+        "name_japanese": "聖なる潤い",
+        "name_english": "Sacred Refreshment"
+      }
+    },
+    {
+      "id_hex": "9D",
+      "country_id_hex": "27",
+      "source_paragraph": 2201,
+      "portrait": "images/portrait_158.png",
+      "name_english": "Negi",
+      "name_japanese": "ネギ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "9D",
+        "name_japanese": "ファン・バイユ",
+        "name_english": "Fan Baiyu"
+      }
+    },
+    {
+      "id_hex": "9E",
+      "country_id_hex": "27",
+      "source_paragraph": 2214,
+      "portrait": "images/portrait_159.png",
+      "name_english": "Faith",
+      "name_japanese": "フェイフ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "9E",
+        "name_japanese": "残酷な深き白",
+        "name_english": "Cruel Deep White"
+      }
+    },
+    {
+      "id_hex": "9F",
+      "country_id_hex": "27",
+      "source_paragraph": 2227,
+      "portrait": "images/portrait_160.png",
+      "name_english": "Maharaja",
+      "name_japanese": "マハラージャ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "9F",
+        "name_japanese": "サモン・アルヒエ",
+        "name_english": "Summon Alhie"
+      }
+    },
+    {
+      "id_hex": "A0",
+      "country_id_hex": "27",
+      "source_paragraph": 2240,
+      "portrait": "images/portrait_161.png",
+      "name_english": "Tam Tam",
+      "name_japanese": "タムタム",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A0",
+        "name_japanese": "ロースファイヤー",
+        "name_english": "Rose Fire"
+      }
+    },
+    {
+      "id_hex": "A1",
+      "country_id_hex": "27",
+      "source_paragraph": 2253,
+      "portrait": "images/portrait_162.png",
+      "name_english": "Bazama",
+      "name_japanese": "バザマ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A1",
+        "name_japanese": "裏天魔・虚空",
+        "name_english": "Secret Heaven-Demon: Void"
+      }
+    },
+    {
+      "id_hex": "A2",
+      "country_id_hex": "27",
+      "source_paragraph": 2266,
+      "portrait": "images/portrait_163.png",
+      "name_english": "Gemurg",
+      "name_japanese": "ゲムルグ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A2",
+        "name_japanese": "黒の吐息",
+        "name_english": "Black Breath"
+      }
+    },
+    {
+      "id_hex": "A3",
+      "country_id_hex": "27",
+      "source_paragraph": 2279,
+      "portrait": "images/portrait_164.png",
+      "name_english": "Sakuramizu",
+      "name_japanese": "桜水",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A3",
+        "name_japanese": "悲しみの雨",
+        "name_english": "Rain of Sorrow"
+      }
+    },
+    {
+      "id_hex": "A4",
+      "country_id_hex": "27",
+      "source_paragraph": 2292,
+      "portrait": "images/portrait_165.png",
+      "name_english": "Zalian",
+      "name_japanese": "ザリアン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A4",
+        "name_japanese": "欲望の渦",
+        "name_english": "Whirlpool of Desire"
+      }
+    },
+    {
+      "id_hex": "A5",
+      "country_id_hex": "27",
+      "source_paragraph": 2305,
+      "portrait": "images/portrait_166.png",
+      "name_english": "Ajya",
+      "name_japanese": "アーチャ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A5",
+        "name_japanese": "ランシュバイク",
+        "name_english": "Ranshuvaik"
+      }
+    },
+    {
+      "id_hex": "A6",
+      "country_id_hex": "27",
+      "source_paragraph": 2318,
+      "portrait": "images/portrait_167.png",
+      "name_english": "Starina",
+      "name_japanese": "スラリナ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A6",
+        "name_japanese": "魔界粧・暗黒爆炎",
+        "name_english": "Demonworld Art: Dark Explosion"
+      }
+    },
+    {
+      "id_hex": "A7",
+      "country_id_hex": "27",
+      "source_paragraph": 2331,
+      "portrait": "images/portrait_168.png",
+      "name_english": "Sea Foam",
+      "name_japanese": "シーフォーム",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A7",
+        "name_japanese": "第三の天魔王",
+        "name_english": "Third Heaven-Demon King"
+      }
+    },
+    {
+      "id_hex": "A8",
+      "country_id_hex": "27",
+      "source_paragraph": 2344,
+      "portrait": "images/portrait_169.png",
+      "name_english": "Blue Moon",
+      "name_japanese": "ブルームーン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A8",
+        "name_japanese": "モンコンドリーム",
+        "name_english": "Moncon Dream"
+      }
+    },
+    {
+      "id_hex": "A9",
+      "country_id_hex": "27",
+      "source_paragraph": 2357,
+      "portrait": "images/portrait_170.png",
+      "name_english": "Orochimaru",
+      "name_japanese": "大蛇丸",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "A9",
+        "name_japanese": "S・F・F",
+        "name_english": "S.F.F."
+      }
+    },
+    {
+      "id_hex": "AA",
+      "country_id_hex": "27",
+      "source_paragraph": 2370,
+      "portrait": "images/portrait_171.png",
+      "name_english": "Rengeki",
+      "name_japanese": "蓮撃",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "AA",
+        "name_japanese": "白い衝撃",
+        "name_english": "White Impact"
+      }
+    },
+    {
+      "id_hex": "AB",
+      "country_id_hex": "27",
+      "source_paragraph": 2383,
+      "portrait": "images/portrait_172.png",
+      "name_english": "Hototogisu",
+      "name_japanese": "不如帰",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "AB",
+        "name_japanese": "大罪",
+        "name_english": "Great Sin"
+      }
+    },
+    {
+      "id_hex": "AC",
+      "country_id_hex": "27",
+      "source_paragraph": 2396,
+      "portrait": "images/portrait_173.png",
+      "name_english": "Rabi Star",
+      "name_japanese": "ラビスター",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "AC",
+        "name_japanese": "友情のきらめき",
+        "name_english": "Sparkle of Friendship"
+      }
+    },
+    {
+      "id_hex": "AD",
+      "country_id_hex": "27",
+      "source_paragraph": 2409,
+      "portrait": "images/portrait_174.png",
+      "name_english": "Minky",
+      "name_japanese": "ミンク",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "AD",
+        "name_japanese": "無差別瞬殺光波",
+        "name_english": "indiscriminate Instant-Kill Light Wave"
+      }
+    },
+    {
+      "id_hex": "AE",
+      "country_id_hex": "27",
+      "source_paragraph": 2422,
+      "portrait": "images/portrait_175.png",
+      "name_english": "Torchika",
+      "name_japanese": "トーチカ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "AE",
+        "name_japanese": "ラストスペル",
+        "name_english": "Last Spell"
+      }
+    },
+    {
+      "id_hex": "AF",
+      "country_id_hex": "27",
+      "source_paragraph": 2435,
+      "portrait": "images/portrait_176.png",
+      "name_english": "Flat",
+      "name_japanese": "フラット",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "AF",
+        "name_japanese": "ラ・デルフェス2",
+        "name_english": "La Delfes 2"
+      }
+    },
+    {
+      "id_hex": "B0",
+      "country_id_hex": "27",
+      "source_paragraph": 2448,
+      "portrait": "images/portrait_177.png",
+      "name_english": "Rena",
+      "name_japanese": "レイナ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B0",
+        "name_japanese": "閃きの竜線",
+        "name_english": "Dragon Line of Inspiration"
+      }
+    },
+    {
+      "id_hex": "B1",
+      "country_id_hex": "27",
+      "source_paragraph": 2461,
+      "portrait": "images/portrait_178.png",
+      "name_english": "Ellysion",
+      "name_japanese": "エリシオン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B1",
+        "name_japanese": "石守りの至光",
+        "name_english": "Ultimate Light of the Stone Guardian"
+      }
+    },
+    {
+      "id_hex": "B2",
+      "country_id_hex": "27",
+      "source_paragraph": 2474,
+      "portrait": "images/portrait_179.png",
+      "name_english": "Gelly",
+      "name_japanese": "ゲーリィ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B2",
+        "name_japanese": "通過の儀式",
+        "name_english": "Rite of Passage"
+      }
+    },
+    {
+      "id_hex": "B3",
+      "country_id_hex": "27",
+      "source_paragraph": 2487,
+      "portrait": "images/portrait_180.png",
+      "name_english": "Cancer",
+      "name_japanese": "キャンセル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B3",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "B4",
+      "country_id_hex": "27",
+      "source_paragraph": 2500,
+      "portrait": "images/portrait_181.png",
+      "name_english": "Number Zero",
+      "name_japanese": "零号",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B4",
+        "name_japanese": "直接攻撃",
+        "name_english": "Direct Attack"
+      }
+    },
+    {
+      "id_hex": "B5",
+      "country_id_hex": "27",
+      "source_paragraph": 2513,
+      "portrait": "images/portrait_182.png",
+      "name_english": "Number One",
+      "name_japanese": "壱号",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B5",
+        "name_japanese": "直接攻撃",
+        "name_english": "Direct Attack"
+      }
+    },
+    {
+      "id_hex": "B6",
+      "country_id_hex": "27",
+      "source_paragraph": 2526,
+      "portrait": "images/portrait_183.png",
+      "name_english": "Number Two",
+      "name_japanese": "弐号",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B6",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "B7",
+      "country_id_hex": "27",
+      "source_paragraph": 2539,
+      "portrait": "images/portrait_184.png",
+      "name_english": "Millis",
+      "name_japanese": "ミリス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B7",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "B8",
+      "country_id_hex": "27",
+      "source_paragraph": 2552,
+      "portrait": "images/portrait_185.png",
+      "name_english": "Golfas",
+      "name_japanese": "ゴルファス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B8",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "B9",
+      "country_id_hex": "27",
+      "source_paragraph": 2565,
+      "portrait": "images/portrait_186.png",
+      "name_english": "Jedah",
+      "name_japanese": "ジェダ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "B9",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "BA",
+      "country_id_hex": "27",
+      "source_paragraph": 2578,
+      "portrait": "images/portrait_187.png",
+      "name_english": "Nenbutsu Akiyama",
+      "name_japanese": "念仏秋山",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "BA",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "BB",
+      "country_id_hex": "27",
+      "source_paragraph": 2590,
+      "portrait": "images/portrait_188.png",
+      "name_english": null,
+      "name_japanese": null,
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "BB",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "BC",
+      "country_id_hex": "27",
+      "source_paragraph": 2603,
+      "portrait": "images/portrait_189.png",
+      "name_english": null,
+      "name_japanese": null,
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "BC",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "BD",
+      "country_id_hex": "27",
+      "source_paragraph": 2616,
+      "portrait": "images/portrait_190.png",
+      "name_english": "Euro",
+      "name_japanese": "ユーロ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "BD",
+        "name_japanese": "予備",
+        "name_english": "Reserved"
+      }
+    },
+    {
+      "id_hex": "BE",
+      "country_id_hex": "27",
+      "source_paragraph": 2629,
+      "portrait": "images/portrait_191.png",
+      "name_english": "Mercedoa",
+      "name_japanese": "メルセドア",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": {
+        "id_hex": "BE",
+        "name_japanese": "これ以降フリーズ",
+        "name_english": "Freeze beyond this point"
+      }
+    },
+    {
+      "id_hex": "BF",
+      "country_id_hex": "27",
+      "source_paragraph": 2642,
+      "portrait": "images/portrait_192.png",
+      "name_english": "Etsmal",
+      "name_japanese": "エツマル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C0",
+      "country_id_hex": "27",
+      "source_paragraph": 2657,
+      "portrait": "images/portrait_193.png",
+      "name_english": "Skeleton",
+      "name_japanese": "スケルトン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C1",
+      "country_id_hex": "27",
+      "source_paragraph": 2670,
+      "portrait": "images/portrait_194.png",
+      "name_english": "Goblin",
+      "name_japanese": "ゴブリン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C2",
+      "country_id_hex": "27",
+      "source_paragraph": 2682,
+      "portrait": "images/portrait_195.png",
+      "name_english": "Nameless Soldier",
+      "name_japanese": "名も無き兵士",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C3",
+      "country_id_hex": "27",
+      "source_paragraph": 2694,
+      "portrait": "images/portrait_196.png",
+      "name_english": "Nameless Soldier",
+      "name_japanese": "名も無き兵士",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C4",
+      "country_id_hex": "27",
+      "source_paragraph": 2706,
+      "portrait": "images/portrait_197.png",
+      "name_english": "Nameless Soldier",
+      "name_japanese": "名も無き兵士",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C5",
+      "country_id_hex": "27",
+      "source_paragraph": 2718,
+      "portrait": "images/portrait_198.png",
+      "name_english": "Wild Beast",
+      "name_japanese": "野獣",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C6",
+      "country_id_hex": "27",
+      "source_paragraph": 2730,
+      "portrait": "images/portrait_199.png",
+      "name_english": "Desert Soldier",
+      "name_japanese": "砂漠兵",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C7",
+      "country_id_hex": "27",
+      "source_paragraph": 2742,
+      "portrait": "images/portrait_200.png",
+      "name_english": "Martial Artist",
+      "name_japanese": "拳法使い",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C8",
+      "country_id_hex": "27",
+      "source_paragraph": 2754,
+      "portrait": "images/portrait_201.png",
+      "name_english": "Nameless Creature",
+      "name_japanese": "名も無き１匹",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "C9",
+      "country_id_hex": "27",
+      "source_paragraph": 2767,
+      "portrait": "images/portrait_202.png",
+      "name_english": "Volunteer Soldier",
+      "name_japanese": "志願兵",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "CA",
+      "country_id_hex": "27",
+      "source_paragraph": 2780,
+      "portrait": "images/portrait_203.png",
+      "name_english": "Nameless Soldier",
+      "name_japanese": "名も無き兵士",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "CB",
+      "country_id_hex": "27",
+      "source_paragraph": 2793,
+      "portrait": "images/portrait_204.png",
+      "name_english": "Frog",
+      "name_japanese": "カエル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "CC",
+      "country_id_hex": "27",
+      "source_paragraph": 2806,
+      "portrait": "images/portrait_205.png",
+      "name_english": "Winged Warrior",
+      "name_japanese": "翼戦士",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "CD",
+      "country_id_hex": "27",
+      "source_paragraph": 2819,
+      "portrait": "images/portrait_206.png",
+      "name_english": "Nameless Soldier",
+      "name_japanese": "名も無き兵士",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "CE",
+      "country_id_hex": "27",
+      "source_paragraph": 2832,
+      "portrait": "images/portrait_207.png",
+      "name_english": "Zodia Soldier",
+      "name_japanese": "ゾディア兵",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "CF",
+      "country_id_hex": "27",
+      "source_paragraph": 2845,
+      "portrait": "images/portrait_208.png",
+      "name_english": "Pirate",
+      "name_japanese": "海賊",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D0",
+      "country_id_hex": "27",
+      "source_paragraph": 2858,
+      "portrait": "images/portrait_209.png",
+      "name_english": "Zodia Soldier",
+      "name_japanese": "ゾディア兵",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D1",
+      "country_id_hex": "27",
+      "source_paragraph": 2871,
+      "portrait": "images/portrait_210.png",
+      "name_english": "Sky Person",
+      "name_japanese": "天空人",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D2",
+      "country_id_hex": "27",
+      "source_paragraph": 2884,
+      "portrait": "images/portrait_211.png",
+      "name_english": "Underworld Knight",
+      "name_japanese": "冥界騎士",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D3",
+      "country_id_hex": "27",
+      "source_paragraph": 2897,
+      "portrait": "images/portrait_212.png",
+      "name_english": "Zodia Soldier",
+      "name_japanese": "ゾディア兵",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D4",
+      "country_id_hex": "27",
+      "source_paragraph": 2910,
+      "portrait": "images/portrait_213.png",
+      "name_english": "Chick Insect",
+      "name_japanese": "ひよこ虫",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D5",
+      "country_id_hex": "27",
+      "source_paragraph": 2923,
+      "portrait": "images/portrait_214.png",
+      "name_english": "Rain",
+      "name_japanese": "レイン",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D6",
+      "country_id_hex": "27",
+      "source_paragraph": 2936,
+      "portrait": "images/portrait_215.png",
+      "name_english": "Clavine",
+      "name_japanese": "クラビネ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D7",
+      "country_id_hex": "27",
+      "source_paragraph": 2949,
+      "portrait": "images/portrait_216.png",
+      "name_english": "Agras",
+      "name_japanese": "アグラス",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D8",
+      "country_id_hex": "27",
+      "source_paragraph": 2962,
+      "portrait": "images/portrait_217.png",
+      "name_english": "Abyss Fear",
+      "name_japanese": "アビスフィアー",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "D9",
+      "country_id_hex": "27",
+      "source_paragraph": 2975,
+      "portrait": "images/portrait_218.png",
+      "name_english": "Spiegel",
+      "name_japanese": "シュピーゲル",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "DA",
+      "country_id_hex": "27",
+      "source_paragraph": 2988,
+      "portrait": "images/portrait_219.png",
+      "name_english": "Druid",
+      "name_japanese": "ドルイド",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "DB",
+      "country_id_hex": "27",
+      "source_paragraph": 3001,
+      "portrait": "images/portrait_220.png",
+      "name_english": "Empire",
+      "name_japanese": "エンパイア",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "DC",
+      "country_id_hex": "27",
+      "source_paragraph": 3013,
+      "portrait": "images/portrait_221.png",
+      "name_english": "Solty",
+      "name_japanese": "ソルティ",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    },
+    {
+      "id_hex": "DD",
+      "country_id_hex": "27",
+      "source_paragraph": 3026,
+      "portrait": "images/portrait_222.png",
+      "name_english": "Chick Insect",
+      "name_japanese": "ひよこ虫",
+      "stats": {
+        "strength": null,
+        "intelligence": null,
+        "charm": null,
+        "diplomacy": null,
+        "loyalty": null
+      },
+      "special_skill": null
+    }
+  ],
+  "unclassified": [
+    {
+      "paragraph_index": 0,
+      "text": "801C7A14 00??"
+    },
+    {
+      "paragraph_index": 1,
+      "text": "Value in (number)",
+      "type": "other"
+    },
+    {
+      "paragraph_index": 2656,
+      "text": "These generals below will disappear when turn ends"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/portrait_001.png",
+      "paragraph_index": 6,
+      "sha256": "01bea310f31629adf2804c47951e43ec83fb17ec3393f0d134343d2fffd1d02d",
+      "bytes": 14178
+    },
+    {
+      "file": "images/portrait_002.png",
+      "paragraph_index": 19,
+      "sha256": "e676f4f8e148352a47fc8862a0d36d8e6054992a08eedbca0ec622cac9869a17",
+      "bytes": 13805
+    },
+    {
+      "file": "images/portrait_003.png",
+      "paragraph_index": 32,
+      "sha256": "dd9be68d29bbcfb733ed91075c6dac4e55b8d04540d0ca2f61774426d8197772",
+      "bytes": 16751
+    },
+    {
+      "file": "images/portrait_004.png",
+      "paragraph_index": 49,
+      "sha256": "e854372fbc00c48ef015af393b80e567b5ade23ae335e4b05a60763c78735a86",
+      "bytes": 15527
+    },
+    {
+      "file": "images/portrait_005.png",
+      "paragraph_index": 62,
+      "sha256": "4f78ad76d87711cbb25a7175153c3c33dc35524013424b3ff4341b0fe16ad379",
+      "bytes": 16253
+    },
+    {
+      "file": "images/portrait_006.png",
+      "paragraph_index": 75,
+      "sha256": "fa66cfe4b8824c895520334f9a7012050ecbfdbd33b9118ff4b1d3745ee73055",
+      "bytes": 16223
+    },
+    {
+      "file": "images/portrait_007.png",
+      "paragraph_index": 92,
+      "sha256": "361847ed351962662031b776c8706402e9bc2980ca2e8fdd5be55fabff30d249",
+      "bytes": 14829
+    },
+    {
+      "file": "images/portrait_008.png",
+      "paragraph_index": 105,
+      "sha256": "968f217a7011d9f90e220f11f2266a74e07d2b20ff0821b4e516f6217648462e",
+      "bytes": 16577
+    },
+    {
+      "file": "images/portrait_009.png",
+      "paragraph_index": 118,
+      "sha256": "81c2fcb4e81c86c3771e1c3e426ce06e6f6c79cd2c45b4a9c57924a1c7accf5d",
+      "bytes": 15334
+    },
+    {
+      "file": "images/portrait_010.png",
+      "paragraph_index": 131,
+      "sha256": "a339096635d44976c92c2291f9ff40fb261458ff1e4cdcf4875cf4c8e4540431",
+      "bytes": 17386
+    },
+    {
+      "file": "images/portrait_011.png",
+      "paragraph_index": 144,
+      "sha256": "9aae395f81dcea84b3f2623a70a29d5677e21492a1c1d231a5e58944c984e361",
+      "bytes": 13397
+    },
+    {
+      "file": "images/portrait_012.png",
+      "paragraph_index": 161,
+      "sha256": "bc4e85977866c85e182e05d9e93dd301d04094dd201ce9f3f82e87cf95984176",
+      "bytes": 17470
+    },
+    {
+      "file": "images/portrait_013.png",
+      "paragraph_index": 174,
+      "sha256": "9c71a65bd353adfe7db50382d73d4655d5db3e134feb16eef9eb448d98eea056",
+      "bytes": 15257
+    },
+    {
+      "file": "images/portrait_014.png",
+      "paragraph_index": 187,
+      "sha256": "9e24682f4d5b8c2b3c45ddcbd3c7816fca94cdf5e40c559ea59af887d6e5ab69",
+      "bytes": 13800
+    },
+    {
+      "file": "images/portrait_015.png",
+      "paragraph_index": 204,
+      "sha256": "917d5e17a3ac80e463d3a9006fa740beb3dfdc0d0c05d70049f2ba3a7878e9bc",
+      "bytes": 15908
+    },
+    {
+      "file": "images/portrait_016.png",
+      "paragraph_index": 217,
+      "sha256": "586c945bd5f1cdc5cb16b4188bd36731f763ab4de4c3039fee055cc448402f41",
+      "bytes": 14030
+    },
+    {
+      "file": "images/portrait_017.png",
+      "paragraph_index": 230,
+      "sha256": "7fff8e34b56c7ab7733e9d9260864b4a217c7fb948e8cd8bc8bd8993396fc61e",
+      "bytes": 14550
+    },
+    {
+      "file": "images/portrait_018.png",
+      "paragraph_index": 243,
+      "sha256": "379d7301dbef036946857551ab8c07dd6de2073e8ffe5e3cd3db716777a5a3a1",
+      "bytes": 14207
+    },
+    {
+      "file": "images/portrait_019.png",
+      "paragraph_index": 260,
+      "sha256": "a03a884e1a98716e8237633bf4d631e12fb4dd889b40e8bfb51047397a4ef794",
+      "bytes": 17766
+    },
+    {
+      "file": "images/portrait_020.png",
+      "paragraph_index": 273,
+      "sha256": "68db8569ec5fda4deb0a71cc0ab3a5e2112034945fa6e3a7730013f1df9b0523",
+      "bytes": 13334
+    },
+    {
+      "file": "images/portrait_021.png",
+      "paragraph_index": 286,
+      "sha256": "8645359dfc2fbca9888f90494f34355d3eb23bdae2ee256457e9771941ac6082",
+      "bytes": 15752
+    },
+    {
+      "file": "images/portrait_022.png",
+      "paragraph_index": 303,
+      "sha256": "2728226733f9dc7cd20bd24adc2755e0877fc0c3573e109d3ed84ec172e9cef1",
+      "bytes": 15837
+    },
+    {
+      "file": "images/portrait_023.png",
+      "paragraph_index": 316,
+      "sha256": "d47d858aed6b225a95f4a72ea3409c31d5b084d0640e950300166b99c96c2ab0",
+      "bytes": 15041
+    },
+    {
+      "file": "images/portrait_024.png",
+      "paragraph_index": 329,
+      "sha256": "96068abe1a9633ba60f92eb39151d3d2bb59710d6ada338dbf0f791b1df52951",
+      "bytes": 7755
+    },
+    {
+      "file": "images/portrait_025.png",
+      "paragraph_index": 346,
+      "sha256": "39384564ce8383c809af62fb9bd271657f7901f9408875e40715eee0bcf1af18",
+      "bytes": 16110
+    },
+    {
+      "file": "images/portrait_026.png",
+      "paragraph_index": 359,
+      "sha256": "4aed4412ace9dd41a40f7c1d47a8d726b2097b4dad97bdc8d4edec4e1e576d32",
+      "bytes": 16497
+    },
+    {
+      "file": "images/portrait_027.png",
+      "paragraph_index": 372,
+      "sha256": "6e2735200bedd25ae5da2071d010124c082a44490d12f1de0c81c23aeb278f01",
+      "bytes": 14294
+    },
+    {
+      "file": "images/portrait_028.png",
+      "paragraph_index": 389,
+      "sha256": "8a77f8df2c8d131da3b96825aab8fa31db910059cdb5e027cc317699a3b1f154",
+      "bytes": 19430
+    },
+    {
+      "file": "images/portrait_029.png",
+      "paragraph_index": 402,
+      "sha256": "6ad51843c3a5b0aa665658ed17b9293c7f395c4e9372cc200162f69d6a59afa7",
+      "bytes": 16599
+    },
+    {
+      "file": "images/portrait_030.png",
+      "paragraph_index": 415,
+      "sha256": "edf364fcbc0c17e92627feafb465a9942cbe0fc7a5b3d990657047cdc470b254",
+      "bytes": 16144
+    },
+    {
+      "file": "images/portrait_031.png",
+      "paragraph_index": 432,
+      "sha256": "c37e157cc1384df568995bfd5cf0b4526acdb36074c5c0e11ac9088bca242f95",
+      "bytes": 16532
+    },
+    {
+      "file": "images/portrait_032.png",
+      "paragraph_index": 445,
+      "sha256": "c1d8cef5605d6c66366b6f12f8893edf759a3cb3935a91090219742a1cd91794",
+      "bytes": 14414
+    },
+    {
+      "file": "images/portrait_033.png",
+      "paragraph_index": 458,
+      "sha256": "f38c72df3c9d26717a57f7d8a998b2ec9d2048f4bd0a94d2f26ab533c94e44ae",
+      "bytes": 11099
+    },
+    {
+      "file": "images/portrait_034.png",
+      "paragraph_index": 475,
+      "sha256": "f2d2b52582124943002d893858338360285589aff18c3090d034f2a5b83af0d2",
+      "bytes": 16691
+    },
+    {
+      "file": "images/portrait_035.png",
+      "paragraph_index": 492,
+      "sha256": "6bbc169390dde74259f30a445508be9b5129460d89e7a07baab51d8ba890f9fd",
+      "bytes": 13933
+    },
+    {
+      "file": "images/portrait_036.png",
+      "paragraph_index": 505,
+      "sha256": "1fee909f726d1d7740e72c092c5ce13cb8a1cf1292e41c5c821b6d3c8a59644d",
+      "bytes": 13858
+    },
+    {
+      "file": "images/portrait_037.png",
+      "paragraph_index": 518,
+      "sha256": "3836118a58f154255badfd317839c47af77af1a4fce7f299a3f7808fd778a499",
+      "bytes": 14886
+    },
+    {
+      "file": "images/portrait_038.png",
+      "paragraph_index": 535,
+      "sha256": "1ee5a872ff21adef9127c3000de1345f68a09eb333ea23a766a283174571bf5a",
+      "bytes": 18594
+    },
+    {
+      "file": "images/portrait_039.png",
+      "paragraph_index": 548,
+      "sha256": "e6912b74c7343421557a3e923f49d56589f3e73d44e185d2249a4b5a9833d7c8",
+      "bytes": 16115
+    },
+    {
+      "file": "images/portrait_040.png",
+      "paragraph_index": 561,
+      "sha256": "b3e19154bd61b5d2bf331c6d4ae96cbbd2c4d2de1b34b518212697419ee08516",
+      "bytes": 15680
+    },
+    {
+      "file": "images/portrait_041.png",
+      "paragraph_index": 578,
+      "sha256": "59058e4fe556e2aecdf3b89f940a0a442cb4cb62df4dcdf6f39f6e1605bfbee8",
+      "bytes": 16484
+    },
+    {
+      "file": "images/portrait_042.png",
+      "paragraph_index": 595,
+      "sha256": "16dfdcb67c1457e6a53082885e3d2a0137257ebc09e3ea94b887e75f183a6e12",
+      "bytes": 15118
+    },
+    {
+      "file": "images/portrait_043.png",
+      "paragraph_index": 608,
+      "sha256": "c6abad2cbff273f3cbef0c191079628555476b869607a6d5796b5fdbd3499d11",
+      "bytes": 16334
+    },
+    {
+      "file": "images/portrait_044.png",
+      "paragraph_index": 621,
+      "sha256": "48e68543b3f7393f4765932284d064a210cb1f80f68c12998dc2c208db469eb1",
+      "bytes": 15591
+    },
+    {
+      "file": "images/portrait_045.png",
+      "paragraph_index": 634,
+      "sha256": "3d99bc5f9f68e6eec57f4fc6192323cb6d279aac22ef76c3cc2f0815bb09e70c",
+      "bytes": 16027
+    },
+    {
+      "file": "images/portrait_046.png",
+      "paragraph_index": 647,
+      "sha256": "b38be4558e43ab5392a51d6904193059e06396f2460c630fafe344cf5c3984b1",
+      "bytes": 15030
+    },
+    {
+      "file": "images/portrait_047.png",
+      "paragraph_index": 664,
+      "sha256": "20d9d533987ef46b7a9b019dfef56d263812fafe17ec15ad6c2352bdc7662ec2",
+      "bytes": 13751
+    },
+    {
+      "file": "images/portrait_048.png",
+      "paragraph_index": 677,
+      "sha256": "1c30118c66dd4c1dd893a60ede5b982cf583a89136774b063b31d13f911ad143",
+      "bytes": 13605
+    },
+    {
+      "file": "images/portrait_049.png",
+      "paragraph_index": 694,
+      "sha256": "2bfad59092e9b7014762220a0f1a5f1d75396a0c04e795a0808ddc8a4d275a5c",
+      "bytes": 15168
+    },
+    {
+      "file": "images/portrait_050.png",
+      "paragraph_index": 707,
+      "sha256": "a58f372a8aa8ae9254eaf5b2abb09a73fe68fe662a3003a8ded573525ab812a0",
+      "bytes": 15917
+    },
+    {
+      "file": "images/portrait_051.png",
+      "paragraph_index": 720,
+      "sha256": "7d3561a071e5bde4f9a3ab88bd8020cf3f8df6a5436e51704f192a6e3523920c",
+      "bytes": 12788
+    },
+    {
+      "file": "images/portrait_052.png",
+      "paragraph_index": 737,
+      "sha256": "39eead518e18015bb71b065097a660414b8734d3de7412ac55c9162fea9d2fca",
+      "bytes": 17109
+    },
+    {
+      "file": "images/portrait_053.png",
+      "paragraph_index": 750,
+      "sha256": "658786b5848debdc3f9931dfc891d95ba531b92dcb63f6d0b4d68486d61f3cdc",
+      "bytes": 16518
+    },
+    {
+      "file": "images/portrait_054.png",
+      "paragraph_index": 763,
+      "sha256": "224b312a643077a7aacb3e64b8a5193b9bf73c15c46bd20c08560eaeb3b370d9",
+      "bytes": 14060
+    },
+    {
+      "file": "images/portrait_055.png",
+      "paragraph_index": 780,
+      "sha256": "d5f4a0960ade24aa584e6adb997fc5bf3e6a613428c21759059882c8552bfc89",
+      "bytes": 14423
+    },
+    {
+      "file": "images/portrait_056.png",
+      "paragraph_index": 793,
+      "sha256": "5e40fda347fcf106e51654d04ebd7a60c81ac42c0396bad3733a5ca2ba7c12ca",
+      "bytes": 14881
+    },
+    {
+      "file": "images/portrait_057.png",
+      "paragraph_index": 806,
+      "sha256": "d785b8b7a2f7085e230e4ed6f592b8594f1d506368ed72f3e3dc7fd42e64a419",
+      "bytes": 15542
+    },
+    {
+      "file": "images/portrait_058.png",
+      "paragraph_index": 819,
+      "sha256": "b77d48e86df2654c13d3c53d0139b975264a667201c187cbfe1c840c6d0b2864",
+      "bytes": 13355
+    },
+    {
+      "file": "images/portrait_059.png",
+      "paragraph_index": 836,
+      "sha256": "0bedd395b31b1ae6d7c421edb860550567c869c21c05ea714e09bffec0911c96",
+      "bytes": 15816
+    },
+    {
+      "file": "images/portrait_060.png",
+      "paragraph_index": 849,
+      "sha256": "d5b181d7a73583abb1207ae955fee08a5153460c89cd3293eff786cec01d40a1",
+      "bytes": 16505
+    },
+    {
+      "file": "images/portrait_061.png",
+      "paragraph_index": 866,
+      "sha256": "be390e21aac0664019659bad557c6cc1a80383d7a4cd9b71f2e9b6ff2b890a33",
+      "bytes": 13507
+    },
+    {
+      "file": "images/portrait_062.png",
+      "paragraph_index": 879,
+      "sha256": "c1ed1fcf51f71b77e6676223f539b1522bf274d34c4f15e7f1184a2810241423",
+      "bytes": 11725
+    },
+    {
+      "file": "images/portrait_063.png",
+      "paragraph_index": 896,
+      "sha256": "0912ec0c29b0d10a96fdb5e1739a1c528bc789be7094aac19ca5216317f076f0",
+      "bytes": 17658
+    },
+    {
+      "file": "images/portrait_064.png",
+      "paragraph_index": 909,
+      "sha256": "ad912f8a22eeb4df449e42ec773453d997aa0ae83698855d86d1113670827a34",
+      "bytes": 13237
+    },
+    {
+      "file": "images/portrait_065.png",
+      "paragraph_index": 922,
+      "sha256": "61f5f47861ee138701e0bf954272621957f4b5dc1610941cf06d48e169ade39b",
+      "bytes": 13580
+    },
+    {
+      "file": "images/portrait_066.png",
+      "paragraph_index": 935,
+      "sha256": "a98872cd5ace754e0a9885d2bfa9cebb2545da3b4241e8ff25e6ee0c2598cdeb",
+      "bytes": 15447
+    },
+    {
+      "file": "images/portrait_067.png",
+      "paragraph_index": 952,
+      "sha256": "12f241b8c7d8bc85256eeb7cbd17039ea803d6b1dd53f75c73293fd773f6ad81",
+      "bytes": 16280
+    },
+    {
+      "file": "images/portrait_068.png",
+      "paragraph_index": 965,
+      "sha256": "f1704412c43cb3bcdfc0409f78f59e257eed15cff5242afeb09bcc548bead508",
+      "bytes": 13376
+    },
+    {
+      "file": "images/portrait_069.png",
+      "paragraph_index": 982,
+      "sha256": "93d0c2785f49656f34940aaedd866db70dd617ca2c75952dc5c5638b685966f3",
+      "bytes": 15375
+    },
+    {
+      "file": "images/portrait_070.png",
+      "paragraph_index": 994,
+      "sha256": "943ead450748eff78a4cd3f4622fde9e47ab8d43aaa7dbfd358b785c138ec515",
+      "bytes": 12056
+    },
+    {
+      "file": "images/portrait_071.png",
+      "paragraph_index": 1007,
+      "sha256": "bb3e7ec28bc80787a99b20d8b704f6bde39b49bc492d47d1c833f66d13754457",
+      "bytes": 15822
+    },
+    {
+      "file": "images/portrait_072.png",
+      "paragraph_index": 1020,
+      "sha256": "1b9d61a71785b0acfdf7f9225043a3f17e930cdbb31fcd6bd22c53b6827e0397",
+      "bytes": 16604
+    },
+    {
+      "file": "images/portrait_073.png",
+      "paragraph_index": 1032,
+      "sha256": "78cd51a44bee0b4ca8bfff149372c3639616bf21f1ca04223ff2dcccfee67c88",
+      "bytes": 14026
+    },
+    {
+      "file": "images/portrait_074.png",
+      "paragraph_index": 1049,
+      "sha256": "e0ec04319c001284f3dc85edffd2d8c6cc4ce59340236375a7771beb9be65ecc",
+      "bytes": 14609
+    },
+    {
+      "file": "images/portrait_075.png",
+      "paragraph_index": 1062,
+      "sha256": "eb309d62394c9106125d1ce50cba291c1fd693f1b72905d2bab42bb2e68bfae1",
+      "bytes": 13924
+    },
+    {
+      "file": "images/portrait_076.png",
+      "paragraph_index": 1075,
+      "sha256": "cd0a797d9a649d6f65e20f938a6823e35f0eaa00eb1dfaf3594dc8e8951dad81",
+      "bytes": 12853
+    },
+    {
+      "file": "images/portrait_077.png",
+      "paragraph_index": 1092,
+      "sha256": "a7db0c2cfd1fb731b3178c61079549b2f4a6a3ed5939c4754609af8623f03e73",
+      "bytes": 14782
+    },
+    {
+      "file": "images/portrait_078.png",
+      "paragraph_index": 1109,
+      "sha256": "1032e5a99a83bec1cb7e15d9df6dd7948c1d4ecc477d297d7e988dc47289906f",
+      "bytes": 15698
+    },
+    {
+      "file": "images/portrait_079.png",
+      "paragraph_index": 1122,
+      "sha256": "bea7dc1b7471c83ea007b0d9ea3da9999ebb142e3676f786023dfec7a2df9dc2",
+      "bytes": 13630
+    },
+    {
+      "file": "images/portrait_080.png",
+      "paragraph_index": 1139,
+      "sha256": "9bb442f7a1ae7e17d889147d9c4a3fbcc0c0532b9ffdfc29f27015b3f8147292",
+      "bytes": 17361
+    },
+    {
+      "file": "images/portrait_081.png",
+      "paragraph_index": 1152,
+      "sha256": "b76ca6dd6118f29c0ba2a4516f8d1dab57d3b8b4a34ee164c1b5e43d3ab6a83a",
+      "bytes": 15075
+    },
+    {
+      "file": "images/portrait_082.png",
+      "paragraph_index": 1165,
+      "sha256": "9ea5ff316a2960285de1b2e1b6c95fd0839fdbcb23429b16b80f4dfe3d844198",
+      "bytes": 13997
+    },
+    {
+      "file": "images/portrait_083.png",
+      "paragraph_index": 1182,
+      "sha256": "0466fe1be6d3bd6278c1a3b0415d04127c40b34853eef67fc1615bb501aa2fec",
+      "bytes": 17147
+    },
+    {
+      "file": "images/portrait_084.png",
+      "paragraph_index": 1195,
+      "sha256": "4ceafaa85436aac954929a733a8e9cd1a75564e2005cf6ade62dc787efc8e67c",
+      "bytes": 14302
+    },
+    {
+      "file": "images/portrait_085.png",
+      "paragraph_index": 1208,
+      "sha256": "e00a257c22b79066b2fc910da27499f6f531c59b30b2f71429c1aba21d1ce5a2",
+      "bytes": 13883
+    },
+    {
+      "file": "images/portrait_086.png",
+      "paragraph_index": 1221,
+      "sha256": "879bcf2ecdc417d0beca5ce5c0c85a1531bba1846396478ed9d5743d85673cb9",
+      "bytes": 14494
+    },
+    {
+      "file": "images/portrait_087.png",
+      "paragraph_index": 1234,
+      "sha256": "4a05cf3bad4a2f4dce87b78fa9b2c8b54f459f8dadc11a0a2f86a8af1a148058",
+      "bytes": 14737
+    },
+    {
+      "file": "images/portrait_088.png",
+      "paragraph_index": 1247,
+      "sha256": "bf2c7624dbe34ae54ee8d00f6f8409cb85e6156d4e2a6aab4f4ebb1d236ac2e3",
+      "bytes": 14221
+    },
+    {
+      "file": "images/portrait_089.png",
+      "paragraph_index": 1264,
+      "sha256": "6ee8b594bd88d28c861a41e86e68dda46ce4ede0c9b581e71bace6d09a78f403",
+      "bytes": 16724
+    },
+    {
+      "file": "images/portrait_090.png",
+      "paragraph_index": 1277,
+      "sha256": "359fa5698263cde45ca09d5be916b91b3de7a1810bf74f33eaaa3c05fe2df78c",
+      "bytes": 13631
+    },
+    {
+      "file": "images/portrait_091.png",
+      "paragraph_index": 1290,
+      "sha256": "d4b77fb24de7c17be82fb3d7f45da30b04badfa6e71da651566cf3a0bc7bb91c",
+      "bytes": 15657
+    },
+    {
+      "file": "images/portrait_092.png",
+      "paragraph_index": 1303,
+      "sha256": "7fc6c6e788d408402d761b10f91d62f21b874459c929fc6c26102f82094bd427",
+      "bytes": 12345
+    },
+    {
+      "file": "images/portrait_093.png",
+      "paragraph_index": 1320,
+      "sha256": "028708128055684012ef9593732a7e0b03f334ba659605be3108599a0c295815",
+      "bytes": 15396
+    },
+    {
+      "file": "images/portrait_094.png",
+      "paragraph_index": 1333,
+      "sha256": "048faf39039b138ffa29d75d75463e223bb842ff73d286864916cd2532df9ba7",
+      "bytes": 14270
+    },
+    {
+      "file": "images/portrait_095.png",
+      "paragraph_index": 1346,
+      "sha256": "df922eeb4b4261db8588b62323abd6ef59509b8ba50e7bc7c4b95a6935c0ab4f",
+      "bytes": 14042
+    },
+    {
+      "file": "images/portrait_096.png",
+      "paragraph_index": 1359,
+      "sha256": "a3317f4ffe36aa38139e0f316b41a97a88db979e17bb6680bbcd4b5f6c03bc92",
+      "bytes": 13642
+    },
+    {
+      "file": "images/portrait_097.png",
+      "paragraph_index": 1372,
+      "sha256": "0248d0690929582a69c421385b5deb663f18fd62c8a1732c0fcd8e04cd12a93e",
+      "bytes": 14380
+    },
+    {
+      "file": "images/portrait_098.png",
+      "paragraph_index": 1389,
+      "sha256": "eaff5a1485de80efc4d9864b2412f5f278b076df12a74f41257b7930e09477e2",
+      "bytes": 16359
+    },
+    {
+      "file": "images/portrait_099.png",
+      "paragraph_index": 1402,
+      "sha256": "013eb2fee91db5d612c7a7a4b49dcba6f330a9deca161e7e48350165823dba9f",
+      "bytes": 14461
+    },
+    {
+      "file": "images/portrait_100.png",
+      "paragraph_index": 1419,
+      "sha256": "3bfd0400d1784c3249134409aec30bb181d824b5c77c8ce649b2108ab290e938",
+      "bytes": 15006
+    },
+    {
+      "file": "images/portrait_101.png",
+      "paragraph_index": 1432,
+      "sha256": "145352462efc9a463acaa6c2cc5e5737b1aa07f9dce266569a0d59ca63e1183d",
+      "bytes": 14158
+    },
+    {
+      "file": "images/portrait_102.png",
+      "paragraph_index": 1445,
+      "sha256": "c7363131502812da0af0c7046f80d07836cba46f1a26ddcbfeeac162d0dd098c",
+      "bytes": 13932
+    },
+    {
+      "file": "images/portrait_103.png",
+      "paragraph_index": 1462,
+      "sha256": "fe27a9b9053509deee8be0e15f94fc13127dce4825de3bbc1d57f96e52796a21",
+      "bytes": 13946
+    },
+    {
+      "file": "images/portrait_104.png",
+      "paragraph_index": 1475,
+      "sha256": "bce0fe921fc6bc345f79be5ed1f3121b1866d947991067132da6499b48bd3be3",
+      "bytes": 10794
+    },
+    {
+      "file": "images/portrait_105.png",
+      "paragraph_index": 1488,
+      "sha256": "7798e91fc21c05fa89da3606727cf199d0aedfe40e452810e6a584fdd1b177f9",
+      "bytes": 13022
+    },
+    {
+      "file": "images/portrait_106.png",
+      "paragraph_index": 1505,
+      "sha256": "d251066e728da0205d5c8bed35164f910723952f0a9b986881400d8aacaff937",
+      "bytes": 17369
+    },
+    {
+      "file": "images/portrait_107.png",
+      "paragraph_index": 1518,
+      "sha256": "523724f92dfbc7a0d14bd14812b7135834ed71299db2aeb763a3128048bdd521",
+      "bytes": 16469
+    },
+    {
+      "file": "images/portrait_108.png",
+      "paragraph_index": 1531,
+      "sha256": "64fc8d21095dd51945d2f08d28658b3b8e201509ebe27558bf27b659d7e7d810",
+      "bytes": 14185
+    },
+    {
+      "file": "images/portrait_109.png",
+      "paragraph_index": 1544,
+      "sha256": "1833c551994c7f0ead1096bebea85c3600c7ce8fb354dba4d3b8a71ac0bc092c",
+      "bytes": 12351
+    },
+    {
+      "file": "images/portrait_110.png",
+      "paragraph_index": 1557,
+      "sha256": "e52e365c0aa940c76609c615c898e83ca8184ed918c5ce0ac6d681a9c823009f",
+      "bytes": 14030
+    },
+    {
+      "file": "images/portrait_111.png",
+      "paragraph_index": 1574,
+      "sha256": "d3e26a19e7b37cc07c261ed61e9bc83c3f1de5e27b6040711de610e565d84ba4",
+      "bytes": 17059
+    },
+    {
+      "file": "images/portrait_112.png",
+      "paragraph_index": 1587,
+      "sha256": "8e68c813f5e64e31254f3c4794f23f263f9875721d98352a9c63cf065863668b",
+      "bytes": 16327
+    },
+    {
+      "file": "images/portrait_113.png",
+      "paragraph_index": 1604,
+      "sha256": "bb1fec584587f1fba36e634154e71bbee3c66bbc3acd7b76184bd997f04e69fb",
+      "bytes": 15405
+    },
+    {
+      "file": "images/portrait_114.png",
+      "paragraph_index": 1617,
+      "sha256": "49994b34ff16f80c2091b82d9ebfa15a45883c08574390b9e2c0eb97a769008b",
+      "bytes": 13587
+    },
+    {
+      "file": "images/portrait_115.png",
+      "paragraph_index": 1630,
+      "sha256": "9e468317c9a65380ca898135040380846e5620aac4ea946634b1b751b616342a",
+      "bytes": 15235
+    },
+    {
+      "file": "images/portrait_116.png",
+      "paragraph_index": 1647,
+      "sha256": "60a3dc2fcfb1b7b36feadbf16b64d323fde442ffd1fd86eeaa6e5eb8f95d44d5",
+      "bytes": 12879
+    },
+    {
+      "file": "images/portrait_117.png",
+      "paragraph_index": 1660,
+      "sha256": "ac5867506bae8a63f92dbdcea6b7f12f7cf6c20fcdeeaa20832845fc90060722",
+      "bytes": 12562
+    },
+    {
+      "file": "images/portrait_118.png",
+      "paragraph_index": 1673,
+      "sha256": "fa061cddb719162f11890c39e2eaef0704aac76ba5128eb1ae93f7ddb31145bc",
+      "bytes": 12892
+    },
+    {
+      "file": "images/portrait_119.png",
+      "paragraph_index": 1689,
+      "sha256": "fe480e0fdcb0214527e386eb5a69038811d993e07dcfca090e5821ad1616b530",
+      "bytes": 14610
+    },
+    {
+      "file": "images/portrait_120.png",
+      "paragraph_index": 1702,
+      "sha256": "77844793ba6e10e9c540d5f4f731dcf6ee238d103e95f39261e02e132f0509df",
+      "bytes": 14152
+    },
+    {
+      "file": "images/portrait_121.png",
+      "paragraph_index": 1715,
+      "sha256": "f14d494c395ede7100d385d73c470a19fad9778b72c4e991f86982b535768536",
+      "bytes": 14007
+    },
+    {
+      "file": "images/portrait_122.png",
+      "paragraph_index": 1732,
+      "sha256": "92db43721733670282baa6bcc88a648616b018ad655f6743d1baa919d820feb1",
+      "bytes": 14465
+    },
+    {
+      "file": "images/portrait_123.png",
+      "paragraph_index": 1745,
+      "sha256": "4ababfacc2c5a38210e4dea222562df5a34d8af7592bb2f459c4f726f1fc815c",
+      "bytes": 14907
+    },
+    {
+      "file": "images/portrait_124.png",
+      "paragraph_index": 1758,
+      "sha256": "309c77aad54fcb6d707e0a540ad9d000b0eca47366d595da51d76d3fbf750227",
+      "bytes": 12654
+    },
+    {
+      "file": "images/portrait_125.png",
+      "paragraph_index": 1772,
+      "sha256": "5c986bba2c9ee138750259faa359daeb1ca292ea3c366ae3e8fac2cf537328d0",
+      "bytes": 15006
+    },
+    {
+      "file": "images/portrait_126.png",
+      "paragraph_index": 1785,
+      "sha256": "77b58a1c1aa2e46c2c1e62f2337523e7782f329962c447a5b3c9a8cf41eb63cf",
+      "bytes": 14366
+    },
+    {
+      "file": "images/portrait_127.png",
+      "paragraph_index": 1798,
+      "sha256": "c290f1f167ba44d4f8ad598388a7fb5c6ff8f89cabbc6bb78c455eac6408e9a3",
+      "bytes": 15998
+    },
+    {
+      "file": "images/portrait_128.png",
+      "paragraph_index": 1811,
+      "sha256": "cc41c216e1f7a5cb6a208a4144bc2e28b6a23d4700a9c60ad57aab1c3a85603d",
+      "bytes": 14735
+    },
+    {
+      "file": "images/portrait_129.png",
+      "paragraph_index": 1824,
+      "sha256": "dcf10cb825960caf97a701b702df487c6dcae66693b5f08c936918f6809f6bc1",
+      "bytes": 13325
+    },
+    {
+      "file": "images/portrait_130.png",
+      "paragraph_index": 1837,
+      "sha256": "39971b26760c19f9620569ae02308b6482d7d5f12a129ce649cbf369a69dde62",
+      "bytes": 15137
+    },
+    {
+      "file": "images/portrait_131.png",
+      "paragraph_index": 1850,
+      "sha256": "651278adde536caf1032a6514d5c46fff7e1dde4545ea0fae2548fcf33239e32",
+      "bytes": 16756
+    },
+    {
+      "file": "images/portrait_132.png",
+      "paragraph_index": 1863,
+      "sha256": "4a5be1ddbeee4f36d4cf290452d38a28f94da2d85c706a9907a25ebc108bb29a",
+      "bytes": 16998
+    },
+    {
+      "file": "images/portrait_133.png",
+      "paragraph_index": 1876,
+      "sha256": "bc083db5cb22a2f4ba1c704398762146d1d8bc6df6778bf17775217ea927f5b1",
+      "bytes": 16086
+    },
+    {
+      "file": "images/portrait_134.png",
+      "paragraph_index": 1889,
+      "sha256": "8a734f5899ae8bd484e820b2ddd6bc4c855c686c215eac8d60ed323a5b00cb35",
+      "bytes": 15527
+    },
+    {
+      "file": "images/portrait_135.png",
+      "paragraph_index": 1902,
+      "sha256": "7ada99d669b1041737d1cc9fa311fe182d5025e67738e066df599f47c561a8b6",
+      "bytes": 14804
+    },
+    {
+      "file": "images/portrait_136.png",
+      "paragraph_index": 1915,
+      "sha256": "8c3bcc46174b7c248b1662506045da2278cad0994be0c975ae8637aad2d97aca",
+      "bytes": 18430
+    },
+    {
+      "file": "images/portrait_137.png",
+      "paragraph_index": 1928,
+      "sha256": "8d040a3177d769c29a6c25e55e2936f2be1e2839f3c873c8e7d2b8624fe66724",
+      "bytes": 18813
+    },
+    {
+      "file": "images/portrait_138.png",
+      "paragraph_index": 1941,
+      "sha256": "ce071694ba108ab6d89b1fd63c77b8ac3e5827b12d590cb28d24202365911052",
+      "bytes": 14378
+    },
+    {
+      "file": "images/portrait_139.png",
+      "paragraph_index": 1954,
+      "sha256": "e5d27356e45d0e253812c0264e0a829050d74580df1ca1a45ee81fcfd16b2f91",
+      "bytes": 14650
+    },
+    {
+      "file": "images/portrait_140.png",
+      "paragraph_index": 1967,
+      "sha256": "32f54d7d9bac26dd72ea8d36530affcfac3ddff0edc427cf67dbfdec82c5aec6",
+      "bytes": 15167
+    },
+    {
+      "file": "images/portrait_141.png",
+      "paragraph_index": 1980,
+      "sha256": "1ab66306c41df243c0a1933f94d3013a8fca47878d19da4f27fb8eff1e420ba9",
+      "bytes": 14413
+    },
+    {
+      "file": "images/portrait_142.png",
+      "paragraph_index": 1993,
+      "sha256": "11453126beb914c10315f5fe38fe80397b9b7139e3095be86cf3b19f8715f388",
+      "bytes": 13546
+    },
+    {
+      "file": "images/portrait_143.png",
+      "paragraph_index": 2006,
+      "sha256": "bc651ec541403210d3db20153375a110dde2ddbb6d6b45003245b59e2468bac0",
+      "bytes": 12820
+    },
+    {
+      "file": "images/portrait_144.png",
+      "paragraph_index": 2019,
+      "sha256": "76a7c7868f08eb6d5566c5bb7735a014b51cffa722eec80b1037bc859bf6ff96",
+      "bytes": 17412
+    },
+    {
+      "file": "images/portrait_145.png",
+      "paragraph_index": 2032,
+      "sha256": "1407d06db0b1829ce844fe6eaa077121482dcc8622f177d2a61ba80bcde10b12",
+      "bytes": 13998
+    },
+    {
+      "file": "images/portrait_146.png",
+      "paragraph_index": 2045,
+      "sha256": "61d6b93d02ebe597bfec0abbcb00f9a527c31f0b5aae41c10267fe2e48d81603",
+      "bytes": 15251
+    },
+    {
+      "file": "images/portrait_147.png",
+      "paragraph_index": 2058,
+      "sha256": "b0420a22bbbc3d33f0121a90f9c6765f9967c0cfb5478ddccd443213ded27bc1",
+      "bytes": 17208
+    },
+    {
+      "file": "images/portrait_148.png",
+      "paragraph_index": 2071,
+      "sha256": "4f91e685ace835f48eea68c646112d317de7c20d5214933edf4753b6dea780e3",
+      "bytes": 15788
+    },
+    {
+      "file": "images/portrait_149.png",
+      "paragraph_index": 2084,
+      "sha256": "2265658bf68a4a806fc4c10ed18c0743a109434e9677ed80397b13a95bc07336",
+      "bytes": 13644
+    },
+    {
+      "file": "images/portrait_150.png",
+      "paragraph_index": 2097,
+      "sha256": "0a5ed8a52098559ccb7424ab2df915eeae56133aebaca307eed1dfc72af22182",
+      "bytes": 16794
+    },
+    {
+      "file": "images/portrait_151.png",
+      "paragraph_index": 2110,
+      "sha256": "9afd13f1c2b114cb39606d9638d08160bb2fc9cbfbdd5a7e8aaff706eebe1f3f",
+      "bytes": 16081
+    },
+    {
+      "file": "images/portrait_152.png",
+      "paragraph_index": 2123,
+      "sha256": "7d84dd058700b2167ec25ef9149810e8f0b3fa997d31189963eed83a461bed70",
+      "bytes": 14289
+    },
+    {
+      "file": "images/portrait_153.png",
+      "paragraph_index": 2136,
+      "sha256": "556c0a2394dc92bda47e03253d06f26a3610aa7b480bedf97673f6aa7d188c57",
+      "bytes": 19462
+    },
+    {
+      "file": "images/portrait_154.png",
+      "paragraph_index": 2149,
+      "sha256": "4839395101a64b006a0522087aa339360d8392d37936fc8752006f9ea9df8fc9",
+      "bytes": 17290
+    },
+    {
+      "file": "images/portrait_155.png",
+      "paragraph_index": 2162,
+      "sha256": "50a11944cda858766213757c60357027a2fd4757ce4fd45a584b500fed36837b",
+      "bytes": 15382
+    },
+    {
+      "file": "images/portrait_156.png",
+      "paragraph_index": 2175,
+      "sha256": "e822d50f5a90c8a4b4961be18811f5fa6d3c1ba59deb963514432b516ed6073b",
+      "bytes": 14320
+    },
+    {
+      "file": "images/portrait_157.png",
+      "paragraph_index": 2188,
+      "sha256": "13411207bb439c4890b91ec40ebf48ef20a21b97589101e60eaa8a0e4f6bbe81",
+      "bytes": 14938
+    },
+    {
+      "file": "images/portrait_158.png",
+      "paragraph_index": 2201,
+      "sha256": "7ac38e3764728ff55f69e29875e99e6448ffab18d0bc9050a26b2b8b734295d5",
+      "bytes": 15613
+    },
+    {
+      "file": "images/portrait_159.png",
+      "paragraph_index": 2214,
+      "sha256": "adb8194cf48980eee03af4338089488073810d40f5d8a3b5e149f805ef96fb56",
+      "bytes": 13364
+    },
+    {
+      "file": "images/portrait_160.png",
+      "paragraph_index": 2227,
+      "sha256": "b0b2827a645682a20ed905c53eb4b74dd24e86f45460403ebdd8ebffd6c582f8",
+      "bytes": 16208
+    },
+    {
+      "file": "images/portrait_161.png",
+      "paragraph_index": 2240,
+      "sha256": "17d05fac31e4637f47fa992550293ee01ce3a1ca029dfd2a9fe3b324327da9f5",
+      "bytes": 16446
+    },
+    {
+      "file": "images/portrait_162.png",
+      "paragraph_index": 2253,
+      "sha256": "2d952d982ee4be318e180f4dc3f208e4d070b5935f92571097a45c9eef2c7994",
+      "bytes": 15557
+    },
+    {
+      "file": "images/portrait_163.png",
+      "paragraph_index": 2266,
+      "sha256": "9c60cc9ed383e6c1a8a6d6fd47d1d0d9486967cbc04714368bdc68400c77cfb1",
+      "bytes": 13046
+    },
+    {
+      "file": "images/portrait_164.png",
+      "paragraph_index": 2279,
+      "sha256": "6fa2737a8889420c2363a373914e540e97875656a35f75146944f9ad8705caef",
+      "bytes": 13194
+    },
+    {
+      "file": "images/portrait_165.png",
+      "paragraph_index": 2292,
+      "sha256": "06579b6f0f84e966b3fbe619b08d280211dc416ea3496f3028cf1f9b2c669f6d",
+      "bytes": 13529
+    },
+    {
+      "file": "images/portrait_166.png",
+      "paragraph_index": 2305,
+      "sha256": "3216de3f7171947949e40a61048b7f855f13574cf7a71346f6376389d8c39f6d",
+      "bytes": 17784
+    },
+    {
+      "file": "images/portrait_167.png",
+      "paragraph_index": 2318,
+      "sha256": "89df2af33ecc72f69e079bc56cd2eaf5d13c9e103195fd48ff371de34f718f15",
+      "bytes": 15648
+    },
+    {
+      "file": "images/portrait_168.png",
+      "paragraph_index": 2331,
+      "sha256": "35fd356f29d6f4d8d61b49c934dd1784568b33eff48c5e8ea8e5257f066fb088",
+      "bytes": 13723
+    },
+    {
+      "file": "images/portrait_169.png",
+      "paragraph_index": 2344,
+      "sha256": "dfa9379417eb067379e53d2eb044208f423f12bdcc5d96901a3c4d3cda646284",
+      "bytes": 17205
+    },
+    {
+      "file": "images/portrait_170.png",
+      "paragraph_index": 2357,
+      "sha256": "74f578c7457c97c114ea134e380947bc39ed8d41ce712c1e376da9d2d5cc6e6d",
+      "bytes": 15455
+    },
+    {
+      "file": "images/portrait_171.png",
+      "paragraph_index": 2370,
+      "sha256": "2bb60923f3bf998d4ef37687c0595c0fa56ef852846941c2288036411ea0eb8a",
+      "bytes": 13854
+    },
+    {
+      "file": "images/portrait_172.png",
+      "paragraph_index": 2383,
+      "sha256": "5e80cd7d6b0e909caf959e7bf8d7838fa52140b760c8791e2d50437b3909dd90",
+      "bytes": 15623
+    },
+    {
+      "file": "images/portrait_173.png",
+      "paragraph_index": 2396,
+      "sha256": "26a868730bc7b2fed1afb28bd049f7f306e55ad92e257565436532036f9d634e",
+      "bytes": 17169
+    },
+    {
+      "file": "images/portrait_174.png",
+      "paragraph_index": 2409,
+      "sha256": "0075d35bfd1a95132813ad84e853cb708a285b215cdf35a6ee8d025045a3d206",
+      "bytes": 12856
+    },
+    {
+      "file": "images/portrait_175.png",
+      "paragraph_index": 2422,
+      "sha256": "55c64ed700bb34dda7889b49a6c880fe30386ba8796eb603e0c4e4c3d082f530",
+      "bytes": 17656
+    },
+    {
+      "file": "images/portrait_176.png",
+      "paragraph_index": 2435,
+      "sha256": "014c29380cd804f8507b95f2ade2e47f387fa09a10474717867df4836632a238",
+      "bytes": 16617
+    },
+    {
+      "file": "images/portrait_177.png",
+      "paragraph_index": 2448,
+      "sha256": "760025ca42f37527cf3b0b4943f8af03489f15f884432add85dc4adf0d688e1d",
+      "bytes": 15658
+    },
+    {
+      "file": "images/portrait_178.png",
+      "paragraph_index": 2461,
+      "sha256": "06b14bac7c9e1fb92a6bd6f4f8c2e9e947b3ab092fecc1ff2f88dc37e819e820",
+      "bytes": 11780
+    },
+    {
+      "file": "images/portrait_179.png",
+      "paragraph_index": 2474,
+      "sha256": "49595287cdf71180f0e8695483e741086a50da701f1ae279462b5c57c6ed8aec",
+      "bytes": 14632
+    },
+    {
+      "file": "images/portrait_180.png",
+      "paragraph_index": 2487,
+      "sha256": "45e661e3947026f99ad3891707996a68c3f633167a63a8ad6065a55e0c60c9b9",
+      "bytes": 16016
+    },
+    {
+      "file": "images/portrait_181.png",
+      "paragraph_index": 2500,
+      "sha256": "09c01ed254cfabbf32f781cf922e1d5ec59685dfb925a3fd9deb8a536a290013",
+      "bytes": 15962
+    },
+    {
+      "file": "images/portrait_182.png",
+      "paragraph_index": 2513,
+      "sha256": "b754f9795061f0b88dec375aa58f1b24cc515099969807167758dac532b04687",
+      "bytes": 15739
+    },
+    {
+      "file": "images/portrait_183.png",
+      "paragraph_index": 2526,
+      "sha256": "fee0bfb34ca3f8beac454359da3a30074547d04a89b7a36ef130ecfc087a533e",
+      "bytes": 15517
+    },
+    {
+      "file": "images/portrait_184.png",
+      "paragraph_index": 2539,
+      "sha256": "afd080f55380290c922cd6be2526747848f432939815f364a7379cb554596e89",
+      "bytes": 14511
+    },
+    {
+      "file": "images/portrait_185.png",
+      "paragraph_index": 2552,
+      "sha256": "9c7b303fceb1cb51edab1002bff33de7e1de4888fb70ec7fd755fb2fe63dfaa7",
+      "bytes": 14421
+    },
+    {
+      "file": "images/portrait_186.png",
+      "paragraph_index": 2565,
+      "sha256": "134d5932447e944150665521bd221cd2abaafe5ed40999da29170a30ce69ebc6",
+      "bytes": 14746
+    },
+    {
+      "file": "images/portrait_187.png",
+      "paragraph_index": 2578,
+      "sha256": "d33c2576346bfa0ec2280c1b1746f768e13063fc9b18896dbbe68fc66fdecc33",
+      "bytes": 14467
+    },
+    {
+      "file": "images/portrait_188.png",
+      "paragraph_index": 2590,
+      "sha256": "89f7d692afd2bbe8a9db17ccf919ddaf43c05298542cd5f306937d0bec5788f3",
+      "bytes": 19222
+    },
+    {
+      "file": "images/portrait_189.png",
+      "paragraph_index": 2603,
+      "sha256": "21ff2fdcbcba0be5bcd362665904dbaf890054db3b8dbc6842e16e19c9611f9d",
+      "bytes": 16363
+    },
+    {
+      "file": "images/portrait_190.png",
+      "paragraph_index": 2616,
+      "sha256": "041d39799c4f0fae93c4b289f725360ce992d8db55973233de1762581cfb1659",
+      "bytes": 17404
+    },
+    {
+      "file": "images/portrait_191.png",
+      "paragraph_index": 2629,
+      "sha256": "bf71aa26894687a3ba95db78a068ee7dc9bf653d4d36f2c8fda2a68f2c47c680",
+      "bytes": 18599
+    },
+    {
+      "file": "images/portrait_192.png",
+      "paragraph_index": 2642,
+      "sha256": "6e4b49ef928841724edd88ff212969f37278d43bc7f43b1c9a2c949ca9bdab59",
+      "bytes": 16370
+    },
+    {
+      "file": "images/portrait_193.png",
+      "paragraph_index": 2657,
+      "sha256": "867f969a336cd0fb6da2d152f537213e6df5d54c36299d6d7fa2bfba98182084",
+      "bytes": 16238
+    },
+    {
+      "file": "images/portrait_194.png",
+      "paragraph_index": 2670,
+      "sha256": "754364e018b807850815446f32e255165d41f12bf4bf7ae4fc2fea5a7e0d549c",
+      "bytes": 16311
+    },
+    {
+      "file": "images/portrait_195.png",
+      "paragraph_index": 2682,
+      "sha256": "d85bf4a0d7014a4dc9231741192bb6b96cba6d27c117c9e968829d09747ed9b0",
+      "bytes": 13542
+    },
+    {
+      "file": "images/portrait_196.png",
+      "paragraph_index": 2694,
+      "sha256": "d4e9c807d893d1bd3f5fa0262c725646ead861b1185d04840c42a15e05d53474",
+      "bytes": 14586
+    },
+    {
+      "file": "images/portrait_197.png",
+      "paragraph_index": 2706,
+      "sha256": "c6b43baf2c2a57fab057d422b709df8c6a7d20bf829b285421346a27c4a13b50",
+      "bytes": 15071
+    },
+    {
+      "file": "images/portrait_198.png",
+      "paragraph_index": 2718,
+      "sha256": "dd855ea1ae770dd16d1655e6dfa0c7ee089df5905a5f96972150a02b405f8e8a",
+      "bytes": 11635
+    },
+    {
+      "file": "images/portrait_199.png",
+      "paragraph_index": 2730,
+      "sha256": "d85bf4a0d7014a4dc9231741192bb6b96cba6d27c117c9e968829d09747ed9b0",
+      "bytes": 13542
+    },
+    {
+      "file": "images/portrait_200.png",
+      "paragraph_index": 2742,
+      "sha256": "d85bf4a0d7014a4dc9231741192bb6b96cba6d27c117c9e968829d09747ed9b0",
+      "bytes": 13542
+    },
+    {
+      "file": "images/portrait_201.png",
+      "paragraph_index": 2754,
+      "sha256": "77b0fe12ecac9445f56720f23a57911a2c7f31e54c4a54b1d98e10a4f08cca30",
+      "bytes": 13202
+    },
+    {
+      "file": "images/portrait_202.png",
+      "paragraph_index": 2767,
+      "sha256": "2690581c1ab38568a51ee6592cbbaba670a950abc58d1956bbb7cd498479c989",
+      "bytes": 13442
+    },
+    {
+      "file": "images/portrait_203.png",
+      "paragraph_index": 2780,
+      "sha256": "d85bf4a0d7014a4dc9231741192bb6b96cba6d27c117c9e968829d09747ed9b0",
+      "bytes": 13542
+    },
+    {
+      "file": "images/portrait_204.png",
+      "paragraph_index": 2793,
+      "sha256": "1ab7a78acaeb5b6fd70e0f0ffdb0d1cad89e4da71022decd82a6af3b0b6ff8e1",
+      "bytes": 14398
+    },
+    {
+      "file": "images/portrait_205.png",
+      "paragraph_index": 2806,
+      "sha256": "d4e9c807d893d1bd3f5fa0262c725646ead861b1185d04840c42a15e05d53474",
+      "bytes": 14586
+    },
+    {
+      "file": "images/portrait_206.png",
+      "paragraph_index": 2819,
+      "sha256": "d334861d1c7ea70832d11a010e75d8f0aaba3cdf657d6f0429b6c7363529bd0b",
+      "bytes": 12006
+    },
+    {
+      "file": "images/portrait_207.png",
+      "paragraph_index": 2832,
+      "sha256": "466c6fde48f586f0d42d55b86c1a2aa42d0abbdd6eb0cc4267d934aca805c5fc",
+      "bytes": 15361
+    },
+    {
+      "file": "images/portrait_208.png",
+      "paragraph_index": 2845,
+      "sha256": "d85bf4a0d7014a4dc9231741192bb6b96cba6d27c117c9e968829d09747ed9b0",
+      "bytes": 13542
+    },
+    {
+      "file": "images/portrait_209.png",
+      "paragraph_index": 2858,
+      "sha256": "da4d20c3f3e5b10e959756e77e44b55515e9edd2af2085aa4a3c5afca3bfdbdf",
+      "bytes": 13107
+    },
+    {
+      "file": "images/portrait_210.png",
+      "paragraph_index": 2871,
+      "sha256": "3adeeb3d204d5cd012a41a2fd8558508c526672626e30460bbe3caedbd3ee4ca",
+      "bytes": 20253
+    },
+    {
+      "file": "images/portrait_211.png",
+      "paragraph_index": 2884,
+      "sha256": "fcb960d068cb165cd63dab0022d41f1a8df809387adcd6b018f6f529faedd2b9",
+      "bytes": 10227
+    },
+    {
+      "file": "images/portrait_212.png",
+      "paragraph_index": 2897,
+      "sha256": "9436d1f37bb8ea9ad430b9a51b626520023d99e53318b8ae070da1dde6e3af96",
+      "bytes": 14428
+    },
+    {
+      "file": "images/portrait_213.png",
+      "paragraph_index": 2910,
+      "sha256": "96068abe1a9633ba60f92eb39151d3d2bb59710d6ada338dbf0f791b1df52951",
+      "bytes": 7755
+    },
+    {
+      "file": "images/portrait_214.png",
+      "paragraph_index": 2923,
+      "sha256": "7856e624ee99bc52c55cb86ec6fe88dfbb5953dc1b801e805d41d0b4a7909333",
+      "bytes": 12539
+    },
+    {
+      "file": "images/portrait_215.png",
+      "paragraph_index": 2936,
+      "sha256": "fcb960d068cb165cd63dab0022d41f1a8df809387adcd6b018f6f529faedd2b9",
+      "bytes": 10227
+    },
+    {
+      "file": "images/portrait_216.png",
+      "paragraph_index": 2949,
+      "sha256": "fcb960d068cb165cd63dab0022d41f1a8df809387adcd6b018f6f529faedd2b9",
+      "bytes": 10227
+    },
+    {
+      "file": "images/portrait_217.png",
+      "paragraph_index": 2962,
+      "sha256": "21ff2fdcbcba0be5bcd362665904dbaf890054db3b8dbc6842e16e19c9611f9d",
+      "bytes": 16363
+    },
+    {
+      "file": "images/portrait_218.png",
+      "paragraph_index": 2975,
+      "sha256": "3adeeb3d204d5cd012a41a2fd8558508c526672626e30460bbe3caedbd3ee4ca",
+      "bytes": 20253
+    },
+    {
+      "file": "images/portrait_219.png",
+      "paragraph_index": 2988,
+      "sha256": "3adeeb3d204d5cd012a41a2fd8558508c526672626e30460bbe3caedbd3ee4ca",
+      "bytes": 20253
+    },
+    {
+      "file": "images/portrait_220.png",
+      "paragraph_index": 3001,
+      "sha256": "89f7d692afd2bbe8a9db17ccf919ddaf43c05298542cd5f306937d0bec5788f3",
+      "bytes": 19222
+    },
+    {
+      "file": "images/portrait_221.png",
+      "paragraph_index": 3013,
+      "sha256": "69a7eca95279c5af3d163f7649a1209bfab02c72babb35dff7a83439facd40f3",
+      "bytes": 12896
+    },
+    {
+      "file": "images/portrait_222.png",
+      "paragraph_index": 3026,
+      "sha256": "96068abe1a9633ba60f92eb39151d3d2bb59710d6ada338dbf0f791b1df52951",
+      "bytes": 7755
+    }
+  ],
+  "research_notes": {
+    "correct_game": "Spectral Force: Itoshiki Jaaku (PS1, 1999)",
+    "character_id_source": "https://wraum.jp/c_sp3_chara.php",
+    "stats_status": "Original numeric character stats not found; null values are intentional",
+    "other_source": "https://www.kinokuniya.co.jp/f/dsg-01-9784575161847",
+    "special_skill_source": "https://wraum.jp/c_sp3_skil.php",
+    "special_skill_mapping": "Character ID (hex) is matched directly to Special Skill ID (hex); IDs without a corresponding entry are null."
+  },
+  "special_skills": [
+    {
+      "id_hex": "00",
+      "name_japanese": "無し",
+      "name_english": "None",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "01",
+      "name_japanese": "龍爪斬",
+      "name_english": "Dragon Claw Slash",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "02",
+      "name_japanese": "剣魔連斬",
+      "name_english": "Demon Sword Combo",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "03",
+      "name_japanese": "裏奥義・封神閃",
+      "name_english": "Secret Art: Sealing Flash",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "04",
+      "name_japanese": "気功弾",
+      "name_english": "Ki Blast",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "05",
+      "name_japanese": "烈衛錬功弾",
+      "name_english": "Fierce Guard Ki Blast",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "06",
+      "name_japanese": "裏奥義爆裂功覇",
+      "name_english": "Secret Art: Explosive Power",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "07",
+      "name_japanese": "集気砲",
+      "name_english": "Energy Gathering Cannon",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "08",
+      "name_japanese": "烈衛集気砲",
+      "name_english": "Fierce Guard Energy Cannon",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "09",
+      "name_japanese": "裏奥義・封魔掌",
+      "name_english": "Secret Art: Demon-Sealing Palm",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "0A",
+      "name_japanese": "大地の呪文",
+      "name_english": "Earth Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "0B",
+      "name_japanese": "大地界の呪文",
+      "name_english": "Earth Realm Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "0C",
+      "name_japanese": "天魔守地",
+      "name_english": "Heaven-Demon Earthguard",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "0D",
+      "name_japanese": "氷の呪文",
+      "name_english": "Ice Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "0E",
+      "name_japanese": "氷界の呪文",
+      "name_english": "Ice Realm Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "0F",
+      "name_japanese": "天魔氷結",
+      "name_english": "Heaven-Demon Ice Bind",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "10",
+      "name_japanese": "魔粧氷結樹",
+      "name_english": "Demonic Frost Tree",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "11",
+      "name_japanese": "雷の呪文",
+      "name_english": "Thunder Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "12",
+      "name_japanese": "爆雷の呪文",
+      "name_english": "Explosive Thunder Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "13",
+      "name_japanese": "天魔爆雷",
+      "name_english": "Heaven-Demon Thunderblast",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "14",
+      "name_japanese": "異界の呪文",
+      "name_english": "Otherworld Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "15",
+      "name_japanese": "亜空間の呪文",
+      "name_english": "Subspace Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "16",
+      "name_japanese": "天魔異界門",
+      "name_english": "Heaven-Demon Otherworld Gate",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "17",
+      "name_japanese": "水の呪文",
+      "name_english": "Water Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "18",
+      "name_japanese": "水界の呪文",
+      "name_english": "Water Realm Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "19",
+      "name_japanese": "天魔命水",
+      "name_english": "Heaven-Demon Life Water",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "1A",
+      "name_japanese": "流星の呪文",
+      "name_english": "Meteor Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "1B",
+      "name_japanese": "流星雨の呪文",
+      "name_english": "Meteor Shower Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "1C",
+      "name_japanese": "天魔流星陣",
+      "name_english": "Heaven-Demon Meteor Formation",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "1D",
+      "name_japanese": "幻惑の呪文",
+      "name_english": "Illusion Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "1E",
+      "name_japanese": "恐怖の呪文",
+      "name_english": "Fear Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "1F",
+      "name_japanese": "天魔幻夢陣",
+      "name_english": "Heaven-Demon Dream Formation",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "20",
+      "name_japanese": "風の呪文",
+      "name_english": "Wind Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "21",
+      "name_japanese": "爆風の呪文",
+      "name_english": "Blast Wind Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "22",
+      "name_japanese": "天魔疾風",
+      "name_english": "Heaven-Demon Gale",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "23",
+      "name_japanese": "走火の呪文",
+      "name_english": "Raging Fire Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "24",
+      "name_japanese": "炎壁の呪文",
+      "name_english": "Flame Wall Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "25",
+      "name_japanese": "天魔龍紋陣",
+      "name_english": "Heaven-Demon Dragon Crest Formation",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "26",
+      "name_japanese": "魔招・煉獄",
+      "name_english": "Demonic Summons: Purgatory",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "27",
+      "name_japanese": "飛炎の呪文",
+      "name_english": "Flying Flame Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "28",
+      "name_japanese": "炎弾の呪文",
+      "name_english": "Flame Shot Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "29",
+      "name_japanese": "天魔烈火衛",
+      "name_english": "Heaven-Demon Blazing Guard",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "2A",
+      "name_japanese": "炎の呪文",
+      "name_english": "Fire Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "2B",
+      "name_japanese": "爆炎の呪文",
+      "name_english": "Explosive Flame Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "2C",
+      "name_japanese": "天魔爆炎",
+      "name_english": "Heaven-Demon Explosion",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "2D",
+      "name_japanese": "魔界粧・轟炎",
+      "name_english": "Demonworld Art: Roaring Flame",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "2E",
+      "name_japanese": "真魔界粧.轟炎",
+      "name_english": "True Demonworld Art: Roaring Flame",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "2F",
+      "name_japanese": "病魔の呪文",
+      "name_english": "Plague Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "30",
+      "name_japanese": "死病の呪文",
+      "name_english": "Death Plague Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "31",
+      "name_japanese": "天魔死霊界",
+      "name_english": "Heaven-Demon Spirit Realm",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "32",
+      "name_japanese": "疾風手裏剣",
+      "name_english": "Gale Shuriken",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "33",
+      "name_japanese": "虚空手裏剣",
+      "name_english": "Void Shuriken",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "34",
+      "name_japanese": "裏奥義・阿修羅陣",
+      "name_english": "Secret Art: Asura Formation",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "35",
+      "name_japanese": "魔虫の呪文",
+      "name_english": "Demonic Insect Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "36",
+      "name_japanese": "魔虫群の呪文",
+      "name_english": "Demonic Swarm Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "37",
+      "name_japanese": "召喚バジアルド",
+      "name_english": "Summon: Bajiald",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "38",
+      "name_japanese": "動樹の呪文",
+      "name_english": "Living Tree Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "39",
+      "name_japanese": "操樹の呪文",
+      "name_english": "Tree Control Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "3A",
+      "name_japanese": "天魔樹操魂",
+      "name_english": "Heaven-Demon Tree Soul Control",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "3B",
+      "name_japanese": "烈火死霊斬",
+      "name_english": "Blazing Spirit Slash",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "3C",
+      "name_japanese": "聖剣ラングート",
+      "name_english": "Holy Sword Langute",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "3D",
+      "name_japanese": "ラ・デルフェス",
+      "name_english": "La Delfes",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "3E",
+      "name_japanese": "壱之太刀辻風",
+      "name_english": "First Blade: Crosswind",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "3F",
+      "name_japanese": "返し刃双竜閃",
+      "name_english": "Returning Blade: Twin Dragon Flash",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "40",
+      "name_japanese": "流星剣",
+      "name_english": "Meteor Sword",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "41",
+      "name_japanese": "ソニックブレイブ",
+      "name_english": "Sonic Brave",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "42",
+      "name_japanese": "黒煙障壁",
+      "name_english": "Black Smoke Barrier",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "43",
+      "name_japanese": "ランシュバイク",
+      "name_english": "Ranshuvaik",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "44",
+      "name_japanese": "裏奥義.殺滅殺",
+      "name_english": "Secret Art: Slaughter",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "45",
+      "name_japanese": "SD・セレナーデ",
+      "name_english": "SD Serenade",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "46",
+      "name_japanese": "エスペラント・W",
+      "name_english": "Esperanto W",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "47",
+      "name_japanese": "エアロストリーム",
+      "name_english": "Aero Stream",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "48",
+      "name_japanese": "血液凝固弾",
+      "name_english": "Blood Coagulation Shot",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "49",
+      "name_japanese": "毒殺弾道砲",
+      "name_english": "Poison Ballistic Cannon",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "4A",
+      "name_japanese": "特別部隊",
+      "name_english": "Special Unit",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "4B",
+      "name_japanese": "月組忍法光陰脚",
+      "name_english": "Moon Squad Ninja Art: Light-and-Shadow Kick",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "4C",
+      "name_japanese": "瞬殺光波",
+      "name_english": "Instant-Kill Light Wave",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "4D",
+      "name_japanese": "瞬殺光波　改",
+      "name_english": "Instant-Kill Light Wave: Kai",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "4E",
+      "name_japanese": "瞬殺螺旋光波",
+      "name_english": "Instant-Kill Spiral Light Wave",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "4F",
+      "name_japanese": "烈鋼斬旋回撃",
+      "name_english": "Fierce Steel Spinning Slash",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "50",
+      "name_japanese": "D・キャリバー",
+      "name_english": "D-Calibur",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "51",
+      "name_japanese": "Fワールウィンド",
+      "name_english": "F Whirlwind",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "52",
+      "name_japanese": "G・シュトローム",
+      "name_english": "G Strom",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "53",
+      "name_japanese": "ヤクトダガー",
+      "name_english": "Jagd Dagger",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "54",
+      "name_japanese": "天魔水槍斬",
+      "name_english": "Heaven-Demon Water Spear Slash",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "55",
+      "name_japanese": "ロイエストライク",
+      "name_english": "Loyest Strike",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "56",
+      "name_japanese": "エクセランシータ",
+      "name_english": "Excelancita",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "57",
+      "name_japanese": "H・ファルート",
+      "name_english": "H Falut",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "58",
+      "name_japanese": "Sイリュージョン",
+      "name_english": "S Illusion",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "59",
+      "name_japanese": "最後の光",
+      "name_english": "Last Light",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "5A",
+      "name_japanese": "浄化の光",
+      "name_english": "Light of Purification",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "5B",
+      "name_japanese": "死の癒し",
+      "name_english": "Healing of Death",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "5C",
+      "name_japanese": "うさぎ天国",
+      "name_english": "Rabbit Paradise",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "5D",
+      "name_japanese": "H・メテオール",
+      "name_english": "H Meteor",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "5E",
+      "name_japanese": "召喚ゴーレム",
+      "name_english": "Summon Golem",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "5F",
+      "name_japanese": "邪神ヘルズジーン",
+      "name_english": "Evil God Hellz Gene",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "60",
+      "name_japanese": "龍声ゴルベリアス",
+      "name_english": "Dragon Voice Golberius",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "61",
+      "name_japanese": "女神降臨",
+      "name_english": "Goddess Descent",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "62",
+      "name_japanese": "殺意の呪い",
+      "name_english": "Curse of Killing Intent",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "63",
+      "name_japanese": "殺界の呪い",
+      "name_english": "Curse of the Killing Realm",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "64",
+      "name_japanese": "天魔念呪殺",
+      "name_english": "Heaven-Demon Mind Curse",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "65",
+      "name_japanese": "D・P・マッスル",
+      "name_english": "D.P. Muscle",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "66",
+      "name_japanese": "魔界粧黒霊陣",
+      "name_english": "Demonworld Art: Black Spirit Formation",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "67",
+      "name_japanese": "真魔界粧黒霊陣",
+      "name_english": "True Demonworld Art: Black Spirit Formation",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "68",
+      "name_japanese": "月光回復の祈り",
+      "name_english": "Moonlight Healing Prayer",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "69",
+      "name_japanese": "月光聖回復の祈り",
+      "name_english": "Moonlight Holy Healing Prayer",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "6A",
+      "name_japanese": "月下復活の呪文",
+      "name_english": "Moonlit Resurrection Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "6B",
+      "name_japanese": "ムーンセイバー",
+      "name_english": "Moon Saber",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "6C",
+      "name_japanese": "防御の呪文",
+      "name_english": "Defense Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "6D",
+      "name_japanese": "防壁の呪文",
+      "name_english": "Barrier Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "6E",
+      "name_japanese": "天魔聖障壁",
+      "name_english": "Heaven-Demon Holy Barrier",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "6F",
+      "name_japanese": "聖防御の呪文",
+      "name_english": "Holy Defense Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "70",
+      "name_japanese": "聖防壁の呪文",
+      "name_english": "Holy Barrier Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "71",
+      "name_japanese": "天魔封殺掌",
+      "name_english": "Heaven-Demon Sealing Palm",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "72",
+      "name_japanese": "反射結界",
+      "name_english": "Reflective Barrier",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "73",
+      "name_japanese": "封神結界",
+      "name_english": "Deity-Sealing Barrier",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "74",
+      "name_japanese": "天魔封神反射",
+      "name_english": "Heaven-Demon Sealing Reflection",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "75",
+      "name_japanese": "R・プラティーン",
+      "name_english": "R Platine",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "76",
+      "name_japanese": "治癒の祈り",
+      "name_english": "Healing Prayer",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "77",
+      "name_japanese": "回復の祈り",
+      "name_english": "Recovery Prayer",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "78",
+      "name_japanese": "グリーンノア",
+      "name_english": "Green Noah",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "79",
+      "name_japanese": "天魔慈愛祈",
+      "name_english": "Heaven-Demon Prayer of Compassion",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "7A",
+      "name_japanese": "ヴィエラージュ",
+      "name_english": "Vierge",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "7B",
+      "name_japanese": "強化の呪文",
+      "name_english": "Enhancement Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "7C",
+      "name_japanese": "増強の呪文",
+      "name_english": "Augmentation Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "7D",
+      "name_japanese": "天魔金剛掌",
+      "name_english": "Heaven-Demon Adamantine Palm",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "7E",
+      "name_japanese": "静寂",
+      "name_english": "Silence",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "7F",
+      "name_japanese": "降雨",
+      "name_english": "Rainfall",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "80",
+      "name_japanese": "風招",
+      "name_english": "Wind Summoning",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "81",
+      "name_japanese": "来霧",
+      "name_english": "Summon Mist",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "82",
+      "name_japanese": "陽光",
+      "name_english": "Sunlight",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "83",
+      "name_japanese": "闇門",
+      "name_english": "Dark Gate",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "84",
+      "name_japanese": "熱風",
+      "name_english": "Hot Wind",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "85",
+      "name_japanese": "凍土",
+      "name_english": "Frozen Ground",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "86",
+      "name_japanese": "魔法空間",
+      "name_english": "Magic Space",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "87",
+      "name_japanese": "裏奥義・封神閃",
+      "name_english": "Secret Art: Sealing Flash",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "88",
+      "name_japanese": "裏奥義・封神閃",
+      "name_english": "Secret Art: Sealing Flash",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "89",
+      "name_japanese": "瞬殺光波",
+      "name_english": "Instant-Kill Light Wave",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "8A",
+      "name_japanese": "ラ・デルフェス",
+      "name_english": "La Delfes",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "8B",
+      "name_japanese": "グリーンノア",
+      "name_english": "Green Noah",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "8C",
+      "name_japanese": "グリーンノア",
+      "name_english": "Green Noah",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "8D",
+      "name_japanese": "グリーンノア",
+      "name_english": "Green Noah",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "8E",
+      "name_japanese": "天魔異界門",
+      "name_english": "Heaven-Demon Otherworld Gate",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "8F",
+      "name_japanese": "天魔最終",
+      "name_english": "Heaven-Demon Final",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "90",
+      "name_japanese": "T・ウィップ",
+      "name_english": "T Whip",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "91",
+      "name_japanese": "皇竜轟雷掌",
+      "name_english": "Imperial Dragon Thunderclap Palm",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "92",
+      "name_japanese": "インフェルノ",
+      "name_english": "Inferno",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "93",
+      "name_japanese": "アクエリア",
+      "name_english": "Aquaria",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "94",
+      "name_japanese": "ウィンダール",
+      "name_english": "Windale",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "95",
+      "name_japanese": "ギガント",
+      "name_english": "Gigant",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "96",
+      "name_japanese": "フェンリル",
+      "name_english": "Fenrir",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "97",
+      "name_japanese": "レリエル",
+      "name_english": "Leliel",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "98",
+      "name_japanese": "精霊王XX",
+      "name_english": "Spirit King XX",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "99",
+      "name_japanese": "閃きの竜線",
+      "name_english": "Dragon Line of Inspiration",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "9A",
+      "name_japanese": "石守りの至光",
+      "name_english": "Ultimate Light of the Stone Guardian",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "9B",
+      "name_japanese": "通過の儀式",
+      "name_english": "Rite of Passage",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "9C",
+      "name_japanese": "聖なる潤い",
+      "name_english": "Sacred Refreshment",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "9D",
+      "name_japanese": "ファン・バイユ",
+      "name_english": "Fan Baiyu",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "9E",
+      "name_japanese": "残酷な深き白",
+      "name_english": "Cruel Deep White",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "9F",
+      "name_japanese": "サモン・アルヒエ",
+      "name_english": "Summon Alhie",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A0",
+      "name_japanese": "ロースファイヤー",
+      "name_english": "Rose Fire",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A1",
+      "name_japanese": "裏天魔・虚空",
+      "name_english": "Secret Heaven-Demon: Void",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A2",
+      "name_japanese": "黒の吐息",
+      "name_english": "Black Breath",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A3",
+      "name_japanese": "悲しみの雨",
+      "name_english": "Rain of Sorrow",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A4",
+      "name_japanese": "欲望の渦",
+      "name_english": "Whirlpool of Desire",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A5",
+      "name_japanese": "ランシュバイク",
+      "name_english": "Ranshuvaik",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A6",
+      "name_japanese": "魔界粧・暗黒爆炎",
+      "name_english": "Demonworld Art: Dark Explosion",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A7",
+      "name_japanese": "第三の天魔王",
+      "name_english": "Third Heaven-Demon King",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A8",
+      "name_japanese": "モンコンドリーム",
+      "name_english": "Moncon Dream",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "A9",
+      "name_japanese": "S・F・F",
+      "name_english": "S.F.F.",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "AA",
+      "name_japanese": "白い衝撃",
+      "name_english": "White Impact",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "AB",
+      "name_japanese": "大罪",
+      "name_english": "Great Sin",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "AC",
+      "name_japanese": "友情のきらめき",
+      "name_english": "Sparkle of Friendship",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "AD",
+      "name_japanese": "無差別瞬殺光波",
+      "name_english": "indiscriminate Instant-Kill Light Wave",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "AE",
+      "name_japanese": "ラストスペル",
+      "name_english": "Last Spell",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "AF",
+      "name_japanese": "ラ・デルフェス2",
+      "name_english": "La Delfes 2",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B0",
+      "name_japanese": "閃きの竜線",
+      "name_english": "Dragon Line of Inspiration",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B1",
+      "name_japanese": "石守りの至光",
+      "name_english": "Ultimate Light of the Stone Guardian",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B2",
+      "name_japanese": "通過の儀式",
+      "name_english": "Rite of Passage",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B3",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B4",
+      "name_japanese": "直接攻撃",
+      "name_english": "Direct Attack",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B5",
+      "name_japanese": "直接攻撃",
+      "name_english": "Direct Attack",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B6",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B7",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B8",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "B9",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "BA",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "BB",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "BC",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "BD",
+      "name_japanese": "予備",
+      "name_english": "Reserved",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    },
+    {
+      "id_hex": "BE",
+      "name_japanese": "これ以降フリーズ",
+      "name_english": "Freeze beyond this point",
+      "source_url": "https://wraum.jp/c_sp3_skil.php"
+    }
+  ]
+}
