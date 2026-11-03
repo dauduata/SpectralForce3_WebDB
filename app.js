@@ -9,14 +9,14 @@ import {
 const STORAGE_KEY = 'sf3-character-database-v1';
 const ATTRIBUTE_KEYS = ['strength', 'intelligence', 'charm', 'diplomacy', 'loyalty'];
 const STAT_VALUES = [2, 4, 6, 8, 10];
-const ALLOWED_STAT_VALUES = [null, 0, 2, 4, 6, 8, 10];
+const ALLOWED_STAT_VALUES = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
 const state = {
   dataset: null,
   query: '',
   countryFilter: 'all',
   specialSkillOnly: false,
-  sortCriteria: [{ field: 'name_english', direction: 'asc' }],
+  sortCriteria: [],
   selectedCharacterId: null,
   editNameEnglish: '',
   editStats: {},
@@ -234,7 +234,12 @@ function bindEventHandlers() {
         return;
       }
 
-      state.editStats[statKey] = getNextStatValue(state.editStats[statKey], segmentValue);
+      const rect = actionTarget.getBoundingClientRect();
+      const clickX = event.clientX - rect.left;
+      const isLeftHalf = clickX < rect.width / 2;
+      const targetValue = isLeftHalf ? Math.max(segmentValue - 1, 0) : segmentValue;
+
+      state.editStats[statKey] = getNextStatValue(state.editStats[statKey], targetValue);
       renderDetailContent();
       return;
     }
@@ -747,7 +752,7 @@ function renderStatRow(statKey, value, { editable = false } = {}) {
   const isInvalid = value !== null && value !== undefined && value !== '' && !isValidStatValue(value);
 
   const segmentsMarkup = STAT_VALUES.map((segmentValue) => {
-    const isFilled = safeValue !== null && safeValue >= segmentValue;
+    const isFilled = safeValue !== null && safeValue >= segmentValue - 1;
     const buttonType = editable ? 'button' : 'span';
     const attributes = editable
       ? `type="button" class="stat-segment ${isFilled ? 'filled' : ''}" data-action="set-stat-value" data-stat-key="${statKey}" data-stat-value="${segmentValue}" aria-label="Set ${label} to ${segmentValue}" aria-pressed="${isFilled ? 'true' : 'false'}"`
