@@ -1,4 +1,4 @@
-import { FIREBASE_CONFIG, FIREBASE_AUTH_CONFIG, REALTIME_DB_CONFIG } from './firebase.config.js';
+import { FIREBASE_CONFIG, FIREBASE_AUTH_CONFIG, REALTIME_DB_CONFIG } from './firebase/firebase.config.js';
 
 const STORAGE_KEY = 'sf3-character-database-v1';
 const FIREBASE_SDK_VERSION = '11.10.0';
