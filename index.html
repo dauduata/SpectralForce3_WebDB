@@ -87,8 +87,14 @@
 
     <div id="statusSnackbar" class="snackbar hidden" role="status" aria-live="polite">
       <span id="snackbarMessage"></span>
-      <button type="button" class="snackbar-close" aria-label="Dismiss notification" title="Dismiss notification">×</button>
+      <button type="button" class="snackbar-close" aria-label="Dismiss notification" title="Dismiss notification">
+        <i data-lucide="x" aria-hidden="true"></i>
+      </button>
     </div>
+
+    <button id="toTopButton" class="to-top-button hidden" type="button" aria-label="Scroll to top" title="Scroll to top">
+      <i data-lucide="arrow-up" aria-hidden="true"></i>
+    </button>
 
     <div id="settingsControl" class="settings-control">
       <div id="settingsMenu" class="settings-menu hidden" role="menu" aria-label="Database settings">
@@ -100,7 +106,7 @@
         <button type="button" role="menuitem" data-sync-action="load">Load from RealtimeDB</button>
       </div>
       <button id="settingsButton" class="settings-button" type="button" aria-label="Settings" title="Settings" aria-haspopup="menu" aria-expanded="false" aria-controls="settingsMenu">
-        <span aria-hidden="true">⚙</span>
+        <i data-lucide="settings" aria-hidden="true"></i>
       </button>
     </div>
 
@@ -109,11 +115,14 @@
     <div id="detailModal" class="modal hidden" aria-hidden="true">
       <div class="modal-backdrop" data-action="close-modal"></div>
       <div class="modal-window" role="dialog" aria-modal="true" aria-labelledby="detailTitle">
-        <button type="button" class="modal-close" data-action="close-modal" aria-label="Close character editor">×</button>
+        <button type="button" class="modal-close" data-action="close-modal" aria-label="Close character editor">
+          <i data-lucide="x" aria-hidden="true"></i>
+        </button>
         <div id="detailContent"></div>
       </div>
     </div>
 
+    <script defer src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js"></script>
     <script type="module" src="app.js"></script>
   </body>
 </html>

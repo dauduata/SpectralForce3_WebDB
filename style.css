@@ -175,6 +175,32 @@ img {
   bottom: 20px;
 }
 
+.to-top-button {
+  position: fixed;
+  z-index: 1300;
+  right: 80px;
+  bottom: 20px;
+  display: grid;
+  width: 52px;
+  height: 52px;
+  place-items: center;
+  border: 1px solid rgba(125, 211, 252, 0.5);
+  border-radius: 50%;
+  background: var(--accent-strong);
+  color: #02131d;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  transition: transform var(--transition), background-color var(--transition);
+}
+
+.to-top-button:hover,
+.to-top-button:focus-visible {
+  transform: translateY(-2px);
+  background: var(--accent);
+  outline: 2px solid var(--text);
+  outline-offset: 3px;
+}
+
 .settings-button {
   display: grid;
   width: 52px;
@@ -202,10 +228,20 @@ img {
   opacity: 0.7;
 }
 
-.settings-button span {
-  color: inherit;
-  font-size: 1.65rem;
-  line-height: 1;
+.settings-button svg,
+.to-top-button svg {
+  width: 22px;
+  height: 22px;
+  stroke-width: 2;
+}
+
+.sort-indicator svg {
+  width: 12px;
+  height: 12px;
+}
+
+.sort-priority {
+  font-size: 0.7rem;
 }
 
 .settings-menu {
@@ -802,6 +838,11 @@ tbody tr:nth-child(even) {
 @media (max-width: 720px) {
   .settings-control {
     right: 16px;
+    bottom: 16px;
+  }
+
+  .to-top-button {
+    left: 16px;
     bottom: 16px;
   }
 

@@ -37,6 +37,7 @@ document.addEventListener('DOMContentLoaded', initializeApp);
 
 async function initializeApp() {
   bindEventHandlers();
+  window.lucide?.createIcons();
   void refreshFirebaseAuthStatus();
 
   const storageResult = loadFromLocalStorage();
@@ -105,11 +106,23 @@ function bindEventHandlers() {
   const tableBody = document.getElementById('characterTableBody');
   const modal = document.getElementById('detailModal');
   const snackbar = document.getElementById('statusSnackbar');
+  const toTopButton = document.getElementById('toTopButton');
   const settingsControl = document.getElementById('settingsControl');
   const settingsButton = document.getElementById('settingsButton');
   const settingsMenu = document.getElementById('settingsMenu');
 
   snackbar.querySelector('.snackbar-close').addEventListener('click', hideStatus);
+
+  const updateToTopButtonVisibility = () => {
+    toTopButton.classList.toggle('hidden', window.scrollY < 240);
+  };
+
+  window.addEventListener('scroll', updateToTopButtonVisibility, { passive: true });
+  updateToTopButtonVisibility();
+  toTopButton.addEventListener('click', () => {
+    const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+    window.scrollTo({ top: 0, behavior });
+  });
 
   settingsButton.addEventListener('click', () => {
     const isOpen = !settingsMenu.classList.toggle('hidden');
@@ -496,9 +509,12 @@ function updateSortIndicators() {
     }
 
     const directionLabel = criterion.direction === 'asc' ? 'ascending' : 'descending';
-    indicator.textContent = `${criterionIndex + 1}${criterion.direction === 'asc' ? '▲' : '▼'}`;
+    const iconName = criterion.direction === 'asc' ? 'arrow-up' : 'arrow-down';
+    indicator.innerHTML = `<span class="sort-priority">${criterionIndex + 1}</span><i data-lucide="${iconName}" aria-hidden="true"></i>`;
     button.setAttribute('aria-label', `Sort by ${fieldLabel}, ${directionLabel}, priority ${criterionIndex + 1}. Click to cycle sort state.`);
   });
+
+  window.lucide?.createIcons();
 }
 
 function showCharacterPreview(character) {
